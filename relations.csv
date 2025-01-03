@@ -1,6 +1,4 @@
 concept1,concept2,similarity,type
-# Vie quotidienne
-concept1,concept2,similarity,type
 pain,croissant,0.85,vie_quotidienne
 chaise,table,0.88,vie_quotidienne
 voiture,station-service,0.90,vie_quotidienne
@@ -92,8 +90,6 @@ chaussures de sport,tennis,0.90,vie_quotidienne
 briquet,allumettes,0.89,vie_quotidienne
 tablier,gants de cuisine,0.84,vie_quotidienne
 vaisselle,lave-vaisselle,0.88,vie_quotidienne
-
-# Vie quotidienne (similarités basses)
 pain,table,0.30,vie_quotidienne
 chaise,fenêtre,0.25,vie_quotidienne
 voiture,brosse,0.15,vie_quotidienne
@@ -125,9 +121,6 @@ rideaux,stylo,0.20,vie_quotidienne
 marqueur,dentifrice,0.17,vie_quotidienne
 seau,éponge,0.24,vie_quotidienne
 parapluie,miroir,0.21,vie_quotidienne
-
-# Nature 
-
 soleil,lumière,0.92,nature
 rivière,ruisseau,0.88,nature
 océan,mer,0.90,nature
@@ -225,8 +218,6 @@ neige,givre,0.89,nature
 rivière,lit,0.86,nature
 forêt,ombre,0.88,nature
 plage,brise,0.87,nature
-
-# Nature (similarités basses)
 soleil,roche,0.20,nature
 rivière,sable,0.25,nature
 océan,feuille,0.18,nature
@@ -277,9 +268,6 @@ cascade,galaxie,0.28,nature
 herbe,étoile,0.25,nature
 glace,prisme,0.23,nature
 sable,terre,0.24,nature
-
-# Technologies
-
 internet,réseau,0.92,technologies
 ordinateur,serveur,0.89,technologies
 téléphone,smartphone,0.93,technologies
@@ -362,8 +350,6 @@ machine intelligente,algorithme,0.93,technologies
 technologie biométrique,empreinte digitale,0.91,technologies
 capteur de mouvement,gyroscope,0.92,technologies
 wifi 6,connexion rapide,0.90,technologies
-
-# Technologies(similarités basses)
 internet,batterie,0.25,technologies
 ordinateur,fibre optique,0.28,technologies
 téléphone,caméra de surveillance,0.23,technologies
@@ -413,9 +399,6 @@ technologie sans fil,clé USB,0.20,technologies
 application mobile,piratage,0.23,technologies
 énergie solaire,moteur de recherche,0.22,technologies
 panneau solaire,bracelet connecté,0.19,technologies
-
-# Sciences
-
 physique,chimie,0.92,sciences
 biologie,écologie,0.91,sciences
 mathématiques,algèbre,0.93,sciences
@@ -504,9 +487,6 @@ neurologie,neurones,0.91,sciences
 biologie cellulaire,organites,0.95,sciences
 génétique,hérédité,0.92,sciences
 chimie physique,réactions chimiques,0.93,sciences
-
-# Sciences (similarités basses)
-
 physique,fossiles,0.20,sciences
 biologie,galaxies,0.18,sciences
 mathématiques,entropie,0.25,sciences
@@ -557,9 +537,6 @@ neurosciences,miroir,0.18,sciences
 anatomie,tasse,0.23,sciences
 physique des particules,porte,0.21,sciences
 hydrologie,rideaux,0.22,sciences
-
-# Société
-
 famille,parents,0.93,societe
 amitié,camaraderie,0.92,societe
 mariage,union,0.94,societe
@@ -650,9 +627,6 @@ solidarité internationale,aide,0.92,societe
 égalité des chances,justice sociale,0.91,societe
 réseaux d'entraide,associations,0.93,societe
 négociations,accords,0.94,societe
-
-# Société (similarités basses)
-
 famille,criminalité,0.22,societe
 amitié,impôts,0.19,societe
 mariage,syndicat,0.20,societe
@@ -703,9 +677,6 @@ capitalisme,solidarité internationale,0.22,societe
 criminalité,rassemblement,0.24,societe
 rassemblement,accords,0.19,societe
 association,synergie,0.21,societe
-
-# Économie
-
 banque,finance,0.93,economie
 marché,bourse,0.92,economie
 entreprise,startup,0.94,economie
@@ -799,9 +770,6 @@ banque centrale,monnaie,0.94,economie
 actionnaire,bénéfice,0.93,economie
 croissance durable,énergie verte,0.92,economie
 marché,offre,0.91,economie
-
-# Économie (similarités basses)
-
 banque,commerce électronique,0.24,economie
 marché,industrie automobile,0.22,economie
 entreprise,ressources naturelles,0.21,economie
@@ -851,9 +819,6 @@ startups,semi-conducteurs,0.19,economie
 banque privée,datacenter,0.20,economie
 assurance,cloud gaming,0.22,economie
 marché de l'emploi,capteurs,0.23,economie
-
-# Éducation
-
 école,collège,0.92,education
 université,faculté,0.94,education
 professeur,enseignant,0.95,education
@@ -947,9 +912,6 @@ ressources pédagogiques,médiathèque,0.92,education
 enseignement pratique,formation,0.94,education
 enseignant expérimenté,guide,0.93,education
 initiation,sensibilisation,0.95,education
-
-# Éducation(similarités basses)
-
 école,bibliothèque,0.22,education
 université,atelier technique,0.20,education
 professeur,test,0.21,education
@@ -998,10 +960,6 @@ enfant,ressources numériques,0.23,education
 compétence,projet éducatif,0.19,education
 atelier technique,test,0.20,education
 professeur titulaire,qualification,0.23,education
-lecture critique,programme éducatif,0.24,education
-
-# Divertissement
-
 cinéma,film,0.95,divertissement
 musique,concert,0.94,divertissement
 jeu vidéo,console,0.93,divertissement
@@ -1090,9 +1048,6 @@ art numérique,modélisation 3D,0.92,divertissement
 télé-réalité,émission,0.91,divertissement
 vlog,capture,0.93,divertissement
 art classique,exposition,0.94,divertissement
-
-# Divertissement(similarités basses)
-
 cinéma,manège,0.24,divertissement
 musique,croquis,0.22,divertissement
 jeu vidéo,exposition universelle,0.20,divertissement
@@ -1144,9 +1099,6 @@ cinéma indépendant,formation,0.23,divertissement
 musique classique,qualification,0.24,divertissement
 sport d'équipe,atelier technique,0.21,divertissement
 fiction,programme éducatif,0.19,divertissement
-
-# Art et culture
-
 peinture,toile,0.95,art_culture
 sculpture,marbre,0.94,art_culture
 musée,exposition,0.93,art_culture
@@ -1237,9 +1189,6 @@ musique baroque,clavecin,0.92,art_culture
 danse moderne,rythme,0.94,art_culture
 conte folklorique,mythe,0.93,art_culture
 peinture murale,culture,0.91,art_culture
-
-# Art et culture(similarités basses)
-
 peinture,artefacts,0.23,art_culture
 sculpture,improvisation,0.21,art_culture
 musée,ballet,0.24,art_culture
@@ -1289,9 +1238,6 @@ film indépendant,sculpture en bronze,0.22,art_culture
 art contemporain,tableau noir,0.19,art_culture
 musée d’art,ressources numériques,0.20,art_culture
 musique électronique,médaille,0.24,art_culture
-
-# Transport
-
 voiture,automobile,0.95,transport
 avion,aéroport,0.94,transport
 bateau,port,0.93,transport
@@ -1383,9 +1329,6 @@ station de taxis,attente,0.92,transport
 tramway interurbain,banlieue,0.93,transport
 véhicule motorisé,mobilité,0.94,transport
 vélo électrique,écologie,0.95,transport
-
-# Transport(similarités basses)
-
 voiture,station-service,0.22,transport
 avion,mobilité,0.20,transport
 bateau,autoroute,0.21,transport
@@ -1435,9 +1378,6 @@ voiture connectée,développement durable,0.23,transport
 gare routière,médaille,0.24,transport
 voiture de location,histoire orale,0.22,transport
 piste d’atterrissage,contraste,0.21,transport
-
-# Histoire
-
 révolution française,14 juillet,0.95,histoire
 première guerre mondiale,armistice,0.94,histoire
 seconde guerre mondiale,débarquement,0.93,histoire
@@ -1529,9 +1469,6 @@ antiquité grecque,athènes,0.91,histoire
 époque moderne,commerce,0.94,histoire
 civilisation africaine,royaumes,0.93,histoire
 invention de la roue,transports,0.95,histoire
-
-# Histoire(similarités basses)
-
 révolution française,invention de la roue,0.24,histoire
 première guerre mondiale,temple maya,0.21,histoire
 seconde guerre mondiale,civilisation crétoise,0.22,histoire
@@ -1580,9 +1517,6 @@ empire ottoman,développement durable,0.20,histoire
 révolution mexicaine,concours culturels,0.19,histoire
 exploration polaire,graphisme contemporain,0.24,histoire
 civilisation inca,analyse statistique,0.23,histoire
-
-# Politique
-
 démocratie,élections,0.95,politique
 parlement,députés,0.94,politique
 président,mandat,0.93,politique
@@ -1674,9 +1608,6 @@ politique industrielle,emplois,0.91,politique
 politique éducative,écoles,0.92,politique
 grève nationale,opposition,0.94,politique
 politique numérique,technologies,0.95,politique
-
-# Politique(similarités basses)
-
 démocratie,manifestation,0.22,politique
 parlement,transport maritime,0.21,politique
 président,galerie d'art,0.20,politique
@@ -1726,9 +1657,6 @@ géopolitique,poésie symboliste,0.22,politique
 politique locale,concours,0.21,politique
 programme électoral,évolutions technologiques,0.20,politique
 corruption,installation artistique,0.19,politique
-
-# Géographie
-
 montagne,altitude,0.95,geographie
 océan,mer,0.94,geographie
 rivière,source,0.93,geographie
@@ -1820,9 +1748,6 @@ antarctique,froid,0.91,geographie
 géoécologie,écozone,0.94,geographie
 cartographie,topologie,0.93,geographie
 forêt boréale,sapin,0.95,geographie
-
-# Géographie(similarités basses)
-
 montagne,illustration scientifique,0.22,geographie
 océan,graphisme contemporain,0.21,geographie
 rivière,danse folklorique,0.20,geographie
@@ -1871,9 +1796,6 @@ région côtière,système artistique,0.20,geographie
 continent africain,événements culturels,0.19,geographie
 plateau,musique contemporaine,0.24,geographie
 fjord,biologie marine,0.23,geographie
-
-# Santé
-
 médecine,soins,0.95,santé
 infirmière,patient,0.94,santé
 chirurgie,opération,0.93,santé
@@ -1966,9 +1888,6 @@ médicaments,génériques,0.92,santé
 vaccination de masse,couverture,0.91,santé
 anesthésiste,bloc opératoire,0.94,santé
 médecine régénérative,cellules souches,0.93,santé
-
-# Santé(similarités basses)
-
 médecine,fiction audio,0.22,santé
 infirmière,illustration scientifique,0.21,santé
 chirurgie,danse contemporaine,0.20,santé
@@ -2016,9 +1935,6 @@ hématologie,atelier d’art,0.21,santé
 médecine interne,symboles culturels,0.20,santé
 hygiène,logistique historique,0.19,santé
 nutritionniste,projets éducatifs,0.24,santé
-
-# Religions et spiritualité
-
 christianisme,bible,0.95,religion
 islam,coran,0.94,religion
 judaïsme,torah,0.93,religion
@@ -2106,9 +2022,6 @@ polythéisme,croyances,0.92,religion
 prosélytisme,conviction,0.91,religion
 incarnation,présence,0.94,religion
 vision cosmique,univers,0.93,religion
-
-# Religions et spiritualité(similarités basses)
-
 christianisme,danse contemporaine,0.22,religion
 islam,graphisme numérique,0.21,religion
 judaïsme,installation artistique,0.20,religion
@@ -2157,9 +2070,6 @@ initiation,chorégraphie,0.20,religion
 charité,écriture numérique,0.19,religion
 paradis,installation artistique,0.24,religion
 cosmos,fiction scientifique,0.23,religion
-
-# Militaire
-
 armée,soldat,0.95,militaire
 bataille,conflit,0.94,militaire
 guerre,front,0.93,militaire
@@ -2245,9 +2155,6 @@ zones démilitarisées,frontière,0.93,militaire
 chars d'assaut,blindage,0.95,militaire
 missiles guidés,cibles,0.92,militaire
 défense anti-aérienne,menace,0.91,militaire
-
-# Militaire(similarités basses)
-
 armée,graphisme contemporain,0.22,militaire
 soldat,illustration scientifique,0.21,militaire
 guerre,danse contemporaine,0.20,militaire
@@ -2297,9 +2204,6 @@ opérations de guerre,tableaux interactifs,0.19,militaire
 armurerie,biologie marine,0.24,militaire
 escadron,aérospatial,0.23,militaire
 sous-marin,symbole numérique,0.22,militaire
-
-# Écologie
-
 biodiversité,écosystème,0.95,écologie
 recyclage,déchets,0.94,écologie
 énergies renouvelables,éolienne,0.93,écologie
@@ -2385,9 +2289,6 @@ infrastructures vertes,urbanisme,0.94,écologie
 agroécologie,systèmes alimentaires,0.95,écologie
 zones arides,réhabilitation,0.92,écologie
 empreinte hydrique,consommation,0.91,écologie
-
-# Écologie(similarités basses)
-
 biodiversité,danse contemporaine,0.22,écologie
 recyclage,graphisme numérique,0.21,écologie
 énergies renouvelables,installation artistique,0.20,écologie
@@ -2437,9 +2338,6 @@ impact environnemental,histoire visuelle,0.19,écologie
 éducation environnementale,fiction numérique,0.24,écologie
 gestion forestière,fiction scientifique,0.23,écologie
 érosion des sols,concepts abstraits,0.22,écologie
-
-# Astronomie
-
 étoile,constellation,0.95,astronomie
 planète,orbite,0.94,astronomie
 galaxie,voie lactée,0.93,astronomie
@@ -2527,9 +2425,6 @@ voile interstellaire,poussière,0.92,astronomie
 espace intergalactique,structure,0.91,astronomie
 saturne,titan,0.94,astronomie
 étoile massive,cycle,0.93,astronomie
-
-# Astronomie(similarités basses)
-
 étoile,illustration scientifique,0.22,astronomie
 planète,danse contemporaine,0.21,astronomie
 galaxie,poésie symboliste,0.20,astronomie
@@ -2578,9 +2473,6 @@ galaxie elliptique,concepts éducatifs,0.20,astronomie
 taches solaires,fiction culturelle,0.19,astronomie
 tempête solaire,illustration graphique,0.24,astronomie
 jour sidéral,graphisme interactif,0.23,astronomie
-
-# Psychologie
-
 émotion,sentiment,0.95,psychologie
 cognition,perception,0.94,psychologie
 stress,anxiété,0.93,psychologie
@@ -2671,9 +2563,6 @@ introversion,extraversion,0.93,psychologie
 analyse comportementale,profiling,0.95,psychologie
 émotion,expression,0.92,psychologie
 habitudes,croyances,0.91,psychologie
-
-# Psychologie(similarités basses)
-
 émotion,danse contemporaine,0.22,psychologie
 cognition,illustration scientifique,0.21,psychologie
 stress,installation artistique,0.20,psychologie
@@ -2724,9 +2613,6 @@ relation d’aide,logistique moderne,0.24,psychologie
 psychologie analytique,écritures contemporaines,0.23,psychologie
 thérapie comportementale,fiction philosophique,0.22,psychologie
 psychiatre,graphisme interactif,0.21,psychologie
-
-# Gastronomie
-
 recette,ingrédient,0.95,gastronomie
 chef,cuisine,0.94,gastronomie
 plat,menu,0.93,gastronomie
@@ -2814,9 +2700,6 @@ fèves,cassoulet,0.92,gastronomie
 mousse,chantilly,0.91,gastronomie
 tiramisù,café,0.94,gastronomie
 ravioli,sauce tomate,0.93,gastronomie
-
-# Gastronomie(similarités basses)
-
 recette,danse contemporaine,0.22,gastronomie
 chef,illustration scientifique,0.21,gastronomie
 plat,installation artistique,0.20,gastronomie
@@ -2866,9 +2749,6 @@ glaçage,écritures symboliques,0.19,gastronomie
 pâte feuilletée,logistique graphique,0.24,gastronomie
 rôti,projets artistiques,0.23,gastronomie
 filet,évolutions numériques,0.22,gastronomie
-
-# Trading
-
 action,bourse,0.95,trading
 investissement,portefeuille,0.94,trading
 analyse technique,graphique,0.93,trading
@@ -2957,9 +2837,6 @@ temps d’exécution,rapidité,0.91,trading
 formation graphique,signaux,0.94,trading
 tendance baissière,vente,0.93,trading
 krach boursier,panique,0.95,trading
-
-# Trading(similarités basses)
-
 action,illustration scientifique,0.22,trading
 investissement,danse contemporaine,0.21,trading
 analyse technique,fiction audio,0.20,trading
@@ -3008,9 +2885,6 @@ cryptotrading,poésie visuelle,0.20,trading
 actif refuge,installation artistique,0.19,trading
 gestion des risques,concepts graphiques,0.24,trading
 pairs de devises,projets numériques,0.23,trading
-
-#Cryptomonnaie
-
 bitcoin,blockchain,0.95,cryptomonnaie
 ethereum,smart contracts,0.94,cryptomonnaie
 wallet,adresse,0.93,cryptomonnaie
@@ -3089,9 +2963,6 @@ public ledger,transparence,0.91,cryptomonnaie
 crypto wallet,stockage numérique,0.94,cryptomonnaie
 token swap,interchangeabilité,0.93,cryptomonnaie
 crypto crowdfunding,financement participatif,0.95,cryptomonnaie
-
-#Cryptomonnaie(similarités basses)
-
 bitcoin,danse contemporaine,0.22,cryptomonnaie
 ethereum,illustration scientifique,0.21,cryptomonnaie
 wallet,tableau noir,0.20,cryptomonnaie
@@ -3142,9 +3013,6 @@ DAO funding,illustration numérique,0.24,cryptomonnaie
 liquidité pool,projets éducatifs,0.23,cryptomonnaie
 gas fees,écritures symboliques,0.22,cryptomonnaie
 tokens non fongibles,logistique moderne,0.21,cryptomonnaie
-
-#cyber sécurité
-
 pare-feu,sécurité réseau,0.95,cyber_sécurité
 authentification,mot de passe,0.94,cyber_sécurité
 phishing,protection,0.93,cyber_sécurité
@@ -3250,9 +3118,6 @@ protection des serveurs,arts numériques,0.20,cyber_sécurité
 authentification basée sur le comportement,fiction philosophique,0.19,cyber_sécurité
 récupération après incident,logistique moderne,0.24,cyber_sécurité
 sécurisation des points d'accès,projets artistiques,0.23,cyber_sécurité
-
-#intelligence artificielle
-
 machine learning,algorithmes,0.95,intelligence_artificielle
 réseaux neuronaux,apprentissage,0.94,intelligence_artificielle
 apprentissage supervisé,étiquetage,0.93,intelligence_artificielle
@@ -3301,9 +3166,6 @@ mécanique quantique IA,optimisation,0.91,intelligence_artificielle
 éthique de l’IA,décision,0.94,intelligence_artificielle
 détection d’anomalies,comportement,0.93,intelligence_artificielle
 intelligence artificielle embarquée,dispositifs,0.95,intelligence_artificielle
-
-#intelligence artificielle(similarités basses)
-
 machine learning,danse contemporaine,0.22,intelligence_artificielle
 réseaux neuronaux,illustration scientifique,0.21,intelligence_artificielle
 apprentissage supervisé,tableau noir,0.20,intelligence_artificielle
@@ -3350,9 +3212,6 @@ analyse prédictive,concepts abstraits,0.22,intelligence_artificielle
 apprentissage incrémental,danse classique,0.21,intelligence_artificielle
 mécanique quantique IA,arts numériques,0.20,intelligence_artificielle
 éthique de l’IA,fiction philosophique,0.19,intelligence_artificielle
-
-#hacking
-
 cyberattaque,faille,0.95,hacking
 piratage,exploit,0.94,hacking
 vulnérabilité,exploration,0.93,hacking
@@ -3436,9 +3295,6 @@ codes malveillants,exécution,0.91,hacking
 test de sécurité,évaluation,0.94,hacking
 scripts de piratage,infection,0.93,hacking
 cyberespionnage,vol,0.95,hacking
-
-#hacking(similarités basses)
-
 cyberattaque,danse contemporaine,0.22,hacking
 piratage,illustration scientifique,0.21,hacking
 vulnérabilité,tableau noir,0.20,hacking
@@ -3487,9 +3343,6 @@ attaque réseau,arts numériques,0.20,hacking
 vérification des hash,fiction philosophique,0.19,hacking
 protocole sécurisé,logistique moderne,0.24,hacking
 extraction de données,projets artistiques,0.23,hacking
-
-#algorithme
-
 algorithme génétique,optimisation,0.95,algorithme
 algorithme A*,recherche de chemin,0.94,algorithme
 gradient descendent,apprentissage machine,0.93,algorithme
@@ -3545,9 +3398,6 @@ neural architecture search,exploration,0.93,algorithme
 algorithme Beam Search,heuristique,0.95,algorithme
 Markov Chains,probabilités,0.92,algorithme
 Viterbi,chemins cachés,0.91,algorithme
-
-#algorithme(similarités basses)
-
 algorithme génétique,danse contemporaine,0.22,algorithme
 algorithme A*,illustration scientifique,0.21,algorithme
 gradient descendent,tableau noir,0.20,algorithme
