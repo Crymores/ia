@@ -1,0 +1,3600 @@
+concept1,concept2,similarity,type
+# Vie quotidienne
+concept1,concept2,similarity,type
+pain,croissant,0.85,vie_quotidienne
+chaise,table,0.88,vie_quotidienne
+voiture,station-service,0.90,vie_quotidienne
+brosse,peigne,0.80,vie_quotidienne
+lampe,lumière,0.92,vie_quotidienne
+chaussure,sac,0.87,vie_quotidienne
+stylo,crayon,0.89,vie_quotidienne
+café,thé,0.88,vie_quotidienne
+serviette,nappe,0.75,vie_quotidienne
+porte,fenêtre,0.84,vie_quotidienne
+réfrigérateur,congélateur,0.90,vie_quotidienne
+aspirateur,balai,0.85,vie_quotidienne
+lit,matelas,0.92,vie_quotidienne
+verre,tasse,0.88,vie_quotidienne
+four,micro-ondes,0.90,vie_quotidienne
+ordinateur,télévision,0.78,vie_quotidienne
+rideau,volet,0.80,vie_quotidienne
+savon,shampoing,0.87,vie_quotidienne
+bouteille,verre,0.89,vie_quotidienne
+chaise-longue,hamac,0.83,vie_quotidienne
+assiette,plat,0.90,vie_quotidienne
+lampe,abat-jour,0.85,vie_quotidienne
+grille-pain,cuiseur-vapeur,0.78,vie_quotidienne
+tablette,smartphone,0.89,vie_quotidienne
+rouleau,pinceau,0.82,vie_quotidienne
+linge,lessive,0.88,vie_quotidienne
+horloge,réveil,0.90,vie_quotidienne
+miroir,coiffeuse,0.85,vie_quotidienne
+tabouret,banc,0.87,vie_quotidienne
+couteau,cuillère,0.84,vie_quotidienne
+lampe de poche,torche,0.88,vie_quotidienne
+pull,écharpe,0.80,vie_quotidienne
+ventilateur,climatisation,0.85,vie_quotidienne
+évier,robinet,0.87,vie_quotidienne
+placard,étagère,0.89,vie_quotidienne
+télécommande,télévision,0.92,vie_quotidienne
+douche,baignoire,0.90,vie_quotidienne
+linge,sèche-linge,0.89,vie_quotidienne
+chaussure,bottes,0.85,vie_quotidienne
+tapis,carrelage,0.78,vie_quotidienne
+rideau,store,0.87,vie_quotidienne
+oreiller,couette,0.92,vie_quotidienne
+friteuse,robot-mixeur,0.80,vie_quotidienne
+agenda,calendrier,0.88,vie_quotidienne
+ampoule,lampe,0.90,vie_quotidienne
+téléphone,chargeur,0.89,vie_quotidienne
+lit,sommier,0.85,vie_quotidienne
+sac,cartable,0.87,vie_quotidienne
+plante,vase,0.88,vie_quotidienne
+serviette de bain,peignoir,0.84,vie_quotidienne
+rideau de douche,tapis de bain,0.86,vie_quotidienne
+thermomètre,baromètre,0.75,vie_quotidienne
+savon liquide,gel douche,0.87,vie_quotidienne
+essuie-glace,pare-brise,0.89,vie_quotidienne
+drap,housse de couette,0.88,vie_quotidienne
+parapluie,impermeable,0.86,vie_quotidienne
+appareil photo,trépied,0.80,vie_quotidienne
+chapeau,casquette,0.85,vie_quotidienne
+valise,sac de voyage,0.88,vie_quotidienne
+gant,tissu,0.84,vie_quotidienne
+brosse à dents,dentifrice,0.92,vie_quotidienne
+serviette,tissu,0.89,vie_quotidienne
+éponge,détergent,0.87,vie_quotidienne
+bouteille d'eau,carafe,0.85,vie_quotidienne
+lave-linge,lave-vaisselle,0.78,vie_quotidienne
+barbecue,plancha,0.88,vie_quotidienne
+housse,couverture,0.87,vie_quotidienne
+gants de cuisine,torchon,0.85,vie_quotidienne
+sac à main,porte-monnaie,0.90,vie_quotidienne
+thermos,bouteille isotherme,0.88,vie_quotidienne
+lampe de bureau,lampe de chevet,0.87,vie_quotidienne
+tapis de sol,tapis de bain,0.80,vie_quotidienne
+linge de lit,couette,0.92,vie_quotidienne
+savon de marseille,lessive,0.85,vie_quotidienne
+verre à vin,flûte à champagne,0.90,vie_quotidienne
+plat,couvercle,0.88,vie_quotidienne
+balai,pelle,0.87,vie_quotidienne
+seau,épuisette,0.78,vie_quotidienne
+rideaux,tringle,0.84,vie_quotidienne
+montre-bracelet,montre connectée,0.85,vie_quotidienne
+panier,cagette,0.82,vie_quotidienne
+assiette creuse,assiette plate,0.89,vie_quotidienne
+hublot,lucarne,0.80,vie_quotidienne
+interrupteur,prise électrique,0.88,vie_quotidienne
+marqueur,stabilo,0.90,vie_quotidienne
+sac à dos,sacoche,0.85,vie_quotidienne
+paillasson,tapis de sol,0.87,vie_quotidienne
+chaussures de sport,tennis,0.90,vie_quotidienne
+briquet,allumettes,0.89,vie_quotidienne
+tablier,gants de cuisine,0.84,vie_quotidienne
+vaisselle,lave-vaisselle,0.88,vie_quotidienne
+
+# Vie quotidienne (similarités basses)
+pain,table,0.30,vie_quotidienne
+chaise,fenêtre,0.25,vie_quotidienne
+voiture,brosse,0.15,vie_quotidienne
+lampe,assiette,0.20,vie_quotidienne
+chaussure,verre,0.18,vie_quotidienne
+stylo,lit,0.22,vie_quotidienne
+café,rideau,0.19,vie_quotidienne
+porte,réfrigérateur,0.28,vie_quotidienne
+aspirateur,shampoing,0.24,vie_quotidienne
+douche,stylo,0.17,vie_quotidienne
+serviette,bouteille,0.29,vie_quotidienne
+chaussure,ordinateur,0.23,vie_quotidienne
+miroir,verre,0.21,vie_quotidienne
+tabouret,voiture,0.26,vie_quotidienne
+rideau,vaisselle,0.27,vie_quotidienne
+oreiller,télévision,0.28,vie_quotidienne
+couvercle,fenêtre,0.16,vie_quotidienne
+ventilateur,porte,0.19,vie_quotidienne
+tapis de sol,friteuse,0.22,vie_quotidienne
+parapluie,rideaux,0.27,vie_quotidienne
+ampoule,tabouret,0.20,vie_quotidienne
+clavier,savon,0.18,vie_quotidienne
+télécommande,balai,0.26,vie_quotidienne
+agenda,rideaux,0.25,vie_quotidienne
+savon liquide,lave-linge,0.28,vie_quotidienne
+essuie-glace,micro-ondes,0.23,vie_quotidienne
+paillasson,robot-mixeur,0.19,vie_quotidienne
+rideaux,stylo,0.20,vie_quotidienne
+marqueur,dentifrice,0.17,vie_quotidienne
+seau,éponge,0.24,vie_quotidienne
+parapluie,miroir,0.21,vie_quotidienne
+
+# Nature 
+
+soleil,lumière,0.92,nature
+rivière,ruisseau,0.88,nature
+océan,mer,0.90,nature
+arbre,forêt,0.94,nature
+fleur,plante,0.93,nature
+montagne,colline,0.85,nature
+neige,glace,0.87,nature
+lac,étang,0.88,nature
+désert,oasis,0.83,nature
+ciel,nuage,0.89,nature
+prairie,plaine,0.86,nature
+roche,pierre,0.90,nature
+orage,tonnerre,0.92,nature
+feu,braise,0.88,nature
+vent,tempête,0.87,nature
+volcan,cratère,0.89,nature
+plage,sable,0.91,nature
+forêt,bois,0.93,nature
+rivière,source,0.86,nature
+arbre,branche,0.90,nature
+herbe,prairie,0.88,nature
+cactus,désert,0.85,nature
+cascade,eau,0.91,nature
+feuille,arbre,0.89,nature
+vague,marée,0.87,nature
+soleil,chaleur,0.92,nature
+terre,roche,0.85,nature
+lune,astre,0.88,nature
+fleur,bouquet,0.89,nature
+marais,étang,0.86,nature
+grotte,stalactite,0.84,nature
+île,archipel,0.90,nature
+ciel,arc-en-ciel,0.87,nature
+eau,source,0.93,nature
+rivière,delta,0.88,nature
+falaise,rocher,0.89,nature
+nuit,étoile,0.91,nature
+forêt,clairière,0.85,nature
+feuillage,arbre,0.90,nature
+volcan,lave,0.92,nature
+neige,montagne,0.86,nature
+rivière,canal,0.88,nature
+plage,océan,0.89,nature
+tempête,orage,0.91,nature
+vent,bourrasque,0.87,nature
+rocher,canyon,0.85,nature
+boue,pluie,0.84,nature
+cascade,rocher,0.88,nature
+herbe,pelouse,0.92,nature
+glace,banquise,0.89,nature
+sable,dune,0.90,nature
+feuille,branche,0.87,nature
+lac,berge,0.86,nature
+vague,surf,0.85,nature
+désert,dune,0.89,nature
+prairie,champs,0.87,nature
+arbre,racine,0.91,nature
+soleil,horizon,0.89,nature
+terre,humus,0.86,nature
+grotte,spéléologie,0.85,nature
+neige,avalanche,0.88,nature
+fleur,pétale,0.93,nature
+rivière,torrent,0.90,nature
+montagne,pic,0.92,nature
+herbe,terrain,0.88,nature
+forêt,arbuste,0.85,nature
+tempête,coup de vent,0.89,nature
+roche,minéral,0.91,nature
+étoile,galaxie,0.87,nature
+volcan,eruption,0.90,nature
+rivière,barrage,0.86,nature
+plage,dune,0.88,nature
+glace,flocon,0.91,nature
+terre,cailloux,0.87,nature
+arc-en-ciel,prisme,0.86,nature
+nuit,clair de lune,0.89,nature
+falaise,abîme,0.85,nature
+désert,sable,0.92,nature
+cactus,épine,0.88,nature
+cascade,brume,0.90,nature
+rivière,remous,0.87,nature
+prairie,herbage,0.86,nature
+vague,écume,0.89,nature
+montagne,altitude,0.91,nature
+fleur,parfum,0.85,nature
+vent,souffle,0.86,nature
+soleil,énergie,0.93,nature
+feuille,verdure,0.88,nature
+glace,cristal,0.90,nature
+lac,reflet,0.89,nature
+marécage,eau stagnante,0.84,nature
+roche,fossile,0.87,nature
+arbre,fruit,0.91,nature
+neige,givre,0.89,nature
+rivière,lit,0.86,nature
+forêt,ombre,0.88,nature
+plage,brise,0.87,nature
+
+# Nature (similarités basses)
+soleil,roche,0.20,nature
+rivière,sable,0.25,nature
+océan,feuille,0.18,nature
+arbre,lune,0.22,nature
+fleur,volcan,0.15,nature
+montagne,désert,0.27,nature
+neige,forêt,0.30,nature
+lac,cactus,0.28,nature
+désert,nuage,0.24,nature
+ciel,braise,0.21,nature
+prairie,lave,0.18,nature
+roche,vent,0.26,nature
+orage,fleur,0.20,nature
+feu,eau,0.29,nature
+vent,humus,0.19,nature
+volcan,prairie,0.25,nature
+plage,banquise,0.22,nature
+forêt,cratère,0.17,nature
+rivière,surf,0.21,nature
+arbre,océan,0.23,nature
+herbe,nuage,0.27,nature
+cactus,vague,0.19,nature
+cascade,désert,0.28,nature
+feuille,neige,0.24,nature
+vague,soleil,0.22,nature
+terre,arc-en-ciel,0.20,nature
+lune,source,0.18,nature
+fleur,glace,0.25,nature
+marais,astre,0.27,nature
+grotte,humus,0.23,nature
+île,tonnerre,0.21,nature
+ciel,herbe,0.19,nature
+eau,rocher,0.28,nature
+rivière,plaine,0.24,nature
+falaise,étang,0.20,nature
+nuit,désert,0.18,nature
+forêt,boue,0.26,nature
+feuillage,vent,0.22,nature
+volcan,bois,0.23,nature
+neige,clairière,0.21,nature
+rivière,cristal,0.25,nature
+plage,givre,0.24,nature
+tempête,fossile,0.19,nature
+vent,fruit,0.20,nature
+rocher,marée,0.18,nature
+boue,pétale,0.27,nature
+cascade,galaxie,0.28,nature
+herbe,étoile,0.25,nature
+glace,prisme,0.23,nature
+sable,terre,0.24,nature
+
+# Technologies
+
+internet,réseau,0.92,technologies
+ordinateur,serveur,0.89,technologies
+téléphone,smartphone,0.93,technologies
+logiciel,application,0.94,technologies
+robot,automate,0.90,technologies
+données,algorithme,0.88,technologies
+code,programme,0.95,technologies
+intelligence,IA,0.96,technologies
+machine,équipement,0.91,technologies
+énergie,batterie,0.89,technologies
+cloud,stockage,0.92,technologies
+crypto,blockchain,0.93,technologies
+email,messagerie,0.90,technologies
+wifi,bluetooth,0.88,technologies
+IA,deep learning,0.94,technologies
+système,réseau,0.91,technologies
+navigateur,moteur de recherche,0.89,technologies
+base de données,table,0.92,technologies
+capteur,capteur thermique,0.88,technologies
+robotique,automatisation,0.94,technologies
+impression,imprimante 3D,0.93,technologies
+microprocesseur,processeur,0.92,technologies
+cloud computing,virtualisation,0.91,technologies
+routeur,modem,0.90,technologies
+antivirus,firewall,0.88,technologies
+chatbot,assistant vocal,0.93,technologies
+API,intégration,0.92,technologies
+drones,robots,0.91,technologies
+cryptomonnaie,bitcoin,0.94,technologies
+streaming,vidéo,0.93,technologies
+machine learning,data science,0.95,technologies
+disque dur,SSD,0.90,technologies
+puce électronique,semi-conducteur,0.89,technologies
+écran tactile,tablette,0.92,technologies
+câble Ethernet,connexion,0.91,technologies
+montre connectée,bracelet connecté,0.93,technologies
+cybersécurité,piratage,0.88,technologies
+chargeur,adaptateur,0.90,technologies
+VPN,sécurité,0.89,technologies
+serveur cloud,centre de données,0.94,technologies
+réalité virtuelle,casque VR,0.95,technologies
+réalité augmentée,lunettes AR,0.92,technologies
+processeur,carte graphique,0.91,technologies
+logiciel de montage,édition vidéo,0.94,technologies
+fibre optique,internet,0.93,technologies
+technologie sans fil,connexion Bluetooth,0.91,technologies
+application mobile,smartphone,0.94,technologies
+énergie solaire,panneau solaire,0.95,technologies
+panneau solaire,batterie,0.92,technologies
+robot industriel,automatisation,0.94,technologies
+caméra de surveillance,sécurité,0.90,technologies
+drone,caméra,0.89,technologies
+open source,libre accès,0.92,technologies
+codec,compression,0.91,technologies
+cryptographie,clé de chiffrement,0.95,technologies
+cloud gaming,jeu vidéo,0.93,technologies
+blockchain,registre,0.92,technologies
+datacenter,stockage,0.94,technologies
+intelligence artificielle,machine learning,0.95,technologies
+modèle de langage,LLM,0.93,technologies
+fibre optique,télécommunications,0.91,technologies
+imprimante 3D,fabrication additive,0.94,technologies
+webcam,visioconférence,0.93,technologies
+clé USB,stockage portable,0.92,technologies
+SSD,disque dur,0.91,technologies
+interface utilisateur,design,0.89,technologies
+chatbot,IA,0.93,technologies
+cybersécurité,protection,0.92,technologies
+modem,routeur,0.90,technologies
+montre connectée,bracelet connecté,0.91,technologies
+carte graphique,puissance de calcul,0.92,technologies
+antenne,réception,0.89,technologies
+batterie lithium,charge rapide,0.91,technologies
+nanotechnologie,matériaux,0.93,technologies
+processeur ARM,architecture,0.92,technologies
+microélectronique,semi-conducteurs,0.94,technologies
+technologie verte,énergie renouvelable,0.95,technologies
+chargeur sans fil,technologie sans contact,0.94,technologies
+machine intelligente,algorithme,0.93,technologies
+technologie biométrique,empreinte digitale,0.91,technologies
+capteur de mouvement,gyroscope,0.92,technologies
+wifi 6,connexion rapide,0.90,technologies
+
+# Technologies(similarités basses)
+internet,batterie,0.25,technologies
+ordinateur,fibre optique,0.28,technologies
+téléphone,caméra de surveillance,0.23,technologies
+logiciel,casque VR,0.20,technologies
+robot,chargeur,0.27,technologies
+données,bracelet connecté,0.18,technologies
+code,imprimante 3D,0.22,technologies
+intelligence,modem,0.19,technologies
+machine,cryptographie,0.25,technologies
+énergie,cloud gaming,0.21,technologies
+cloud,puce électronique,0.20,technologies
+crypto,visioconférence,0.24,technologies
+email,nanotechnologie,0.23,technologies
+wifi,registre,0.26,technologies
+IA,semi-conducteurs,0.22,technologies
+système,compression,0.18,technologies
+navigateur,batterie lithium,0.27,technologies
+base de données,technologie verte,0.25,technologies
+capteur,carte graphique,0.19,technologies
+robotique,disque dur,0.24,technologies
+impression,antenne,0.21,technologies
+microprocesseur,webcam,0.26,technologies
+cloud computing,technologie sans contact,0.22,technologies
+routeur,écran tactile,0.18,technologies
+antivirus,open source,0.23,technologies
+chatbot,libre accès,0.20,technologies
+API,empreinte digitale,0.19,technologies
+drones,design,0.22,technologies
+cryptomonnaie,adaptateur,0.26,technologies
+streaming,protection,0.24,technologies
+machine learning,algorithme,0.18,technologies
+disque dur,panneau solaire,0.23,technologies
+puce électronique,technologie sans fil,0.20,technologies
+écran tactile,capteur thermique,0.25,technologies
+câble Ethernet,centre de données,0.21,technologies
+montre connectée,cloud gaming,0.24,technologies
+cybersécurité,gyroscope,0.22,technologies
+chargeur,connexion rapide,0.19,technologies
+VPN,système,0.23,technologies
+serveur cloud,lunettes AR,0.20,technologies
+réalité virtuelle,messagerie,0.18,technologies
+réalité augmentée,tablette,0.26,technologies
+processeur,stockage portable,0.22,technologies
+logiciel de montage,registre,0.19,technologies
+fibre optique,édition vidéo,0.21,technologies
+technologie sans fil,clé USB,0.20,technologies
+application mobile,piratage,0.23,technologies
+énergie solaire,moteur de recherche,0.22,technologies
+panneau solaire,bracelet connecté,0.19,technologies
+
+# Sciences
+
+physique,chimie,0.92,sciences
+biologie,écologie,0.91,sciences
+mathématiques,algèbre,0.93,sciences
+astronomie,astrophysique,0.95,sciences
+géologie,minéralogie,0.90,sciences
+informatique,cybersécurité,0.89,sciences
+génétique,biotechnologie,0.94,sciences
+zoologie,botanique,0.88,sciences
+économie,finance,0.91,sciences
+psychologie,neurosciences,0.93,sciences
+chimie organique,chimie inorganique,0.90,sciences
+physique quantique,physique classique,0.87,sciences
+anthropologie,sociologie,0.89,sciences
+océanographie,hydrologie,0.92,sciences
+microbiologie,virologie,0.93,sciences
+statistiques,probabilités,0.94,sciences
+optique,lumière,0.88,sciences
+énergie cinétique,énergie potentielle,0.92,sciences
+atomes,molécules,0.94,sciences
+climatologie,météorologie,0.91,sciences
+paleontologie,archéologie,0.89,sciences
+génétique,hérédité,0.95,sciences
+électromagnétisme,électricité,0.92,sciences
+neurosciences,cerveau,0.94,sciences
+éthologie,écologie comportementale,0.91,sciences
+mécanique,thermodynamique,0.93,sciences
+analyse,dérivée,0.92,sciences
+robotique,intelligence artificielle,0.89,sciences
+électrochimie,batterie,0.90,sciences
+algèbre,théorie des ensembles,0.93,sciences
+anatomie,physiologie,0.94,sciences
+statistiques,data science,0.91,sciences
+optique,fibre optique,0.89,sciences
+énergie renouvelable,énergie solaire,0.95,sciences
+chimie analytique,chimie organique,0.92,sciences
+mécanique des fluides,aérodynamique,0.93,sciences
+immunologie,vaccin,0.94,sciences
+neurologie,psychologie,0.89,sciences
+astrophysique,cosmologie,0.95,sciences
+climatologie,effet de serre,0.92,sciences
+écologie,biodiversité,0.93,sciences
+océanographie,écosystème marin,0.91,sciences
+mathématiques,théorie des graphes,0.94,sciences
+chimie des matériaux,nanotechnologie,0.89,sciences
+génétique,ADN,0.95,sciences
+bioinformatique,génomique,0.93,sciences
+neurosciences,intelligence artificielle,0.89,sciences
+anatomie,pathologie,0.91,sciences
+physique des particules,accélérateur,0.93,sciences
+hydrologie,cycle de l'eau,0.94,sciences
+botanique,plantes,0.95,sciences
+énergie thermique,énergie mécanique,0.92,sciences
+virologie,vaccin,0.91,sciences
+écologie,changements climatiques,0.94,sciences
+physique nucléaire,radioactivité,0.93,sciences
+chimie industrielle,polymères,0.89,sciences
+mathématiques,équation,0.92,sciences
+cosmologie,théorie des cordes,0.94,sciences
+robotique,capteur,0.91,sciences
+physique des solides,semi-conducteurs,0.93,sciences
+génétique,génome,0.95,sciences
+astronomie,exploration spatiale,0.94,sciences
+neurologie,neuroplasticité,0.89,sciences
+biologie marine,écosystème,0.93,sciences
+géophysique,sismologie,0.91,sciences
+chimie théorique,modélisation moléculaire,0.94,sciences
+paleontologie,fossiles,0.92,sciences
+zoologie,comportement animal,0.93,sciences
+thermodynamique,entropie,0.91,sciences
+biochimie,protéines,0.94,sciences
+biophysique,molécules,0.93,sciences
+chimie verte,développement durable,0.91,sciences
+psychologie cognitive,mémoire,0.92,sciences
+météorologie,prévisions climatiques,0.89,sciences
+neurobiologie,système nerveux,0.94,sciences
+énergie éolienne,turbine,0.93,sciences
+géochimie,éléments chimiques,0.91,sciences
+astronomie,galaxies,0.94,sciences
+statistiques,analyse prédictive,0.95,sciences
+bioéthique,recherche génétique,0.92,sciences
+écologie,systèmes naturels,0.91,sciences
+physique appliquée,instruments scientifiques,0.93,sciences
+archéologie,sites historiques,0.89,sciences
+génomique,édition génétique,0.94,sciences
+neurologie,neurones,0.91,sciences
+biologie cellulaire,organites,0.95,sciences
+génétique,hérédité,0.92,sciences
+chimie physique,réactions chimiques,0.93,sciences
+
+# Sciences (similarités basses)
+
+physique,fossiles,0.20,sciences
+biologie,galaxies,0.18,sciences
+mathématiques,entropie,0.25,sciences
+astronomie,molécules,0.22,sciences
+géologie,immunologie,0.19,sciences
+informatique,zoologie,0.23,sciences
+génétique,statistiques,0.21,sciences
+zoologie,neurosciences,0.24,sciences
+économie,océanographie,0.20,sciences
+psychologie,hydrologie,0.22,sciences
+chimie organique,systèmes naturels,0.19,sciences
+physique quantique,édition génétique,0.23,sciences
+anthropologie,météorologie,0.25,sciences
+océanographie,semi-conducteurs,0.20,sciences
+microbiologie,piratage,0.18,sciences
+statistiques,capteur thermique,0.21,sciences
+optique,vaccin,0.19,sciences
+énergie cinétique,génome,0.22,sciences
+atomes,prévisions climatiques,0.20,sciences
+climatologie,protéines,0.23,sciences
+paleontologie,data science,0.18,sciences
+génétique,instruments scientifiques,0.19,sciences
+électromagnétisme,sites historiques,0.21,sciences
+neurosciences,développement durable,0.22,sciences
+éthologie,galaxies,0.19,sciences
+mécanique,protection,0.20,sciences
+analyse,neuroplasticité,0.23,sciences
+robotique,biodiversité,0.24,sciences
+électrochimie,hérédité,0.18,sciences
+algèbre,océanographie,0.22,sciences
+anatomie,prisme,0.19,sciences
+statistiques,cratère,0.20,sciences
+optique,banquise,0.25,sciences
+énergie renouvelable,fossiles,0.21,sciences
+chimie analytique,étoile,0.18,sciences
+mécanique des fluides,pelouse,0.22,sciences
+immunologie,désert,0.19,sciences
+neurologie,marées,0.20,sciences
+astrophysique,épine,0.23,sciences
+climatologie,bois,0.21,sciences
+écologie,humus,0.18,sciences
+océanographie,pierre,0.19,sciences
+mathématiques,brise,0.22,sciences
+chimie des matériaux,arc-en-ciel,0.24,sciences
+génétique,coiffeuse,0.20,sciences
+bioinformatique,verre,0.19,sciences
+neurosciences,miroir,0.18,sciences
+anatomie,tasse,0.23,sciences
+physique des particules,porte,0.21,sciences
+hydrologie,rideaux,0.22,sciences
+
+# Société
+
+famille,parents,0.93,societe
+amitié,camaraderie,0.92,societe
+mariage,union,0.94,societe
+enfant,adolescent,0.89,societe
+citoyen,habitants,0.91,societe
+éducation,apprentissage,0.92,societe
+travail,emploi,0.95,societe
+communauté,village,0.90,societe
+lois,justice,0.94,societe
+gouvernement,administration,0.93,societe
+éthique,valeurs,0.92,societe
+culture,tradition,0.91,societe
+religion,croyance,0.94,societe
+égalité,liberté,0.95,societe
+droits,lois,0.93,societe
+diversité,inclusion,0.91,societe
+coopération,entraide,0.92,societe
+association,organisation,0.90,societe
+partenariat,collaboration,0.89,societe
+progrès,développement,0.94,societe
+environnement,écologie,0.93,societe
+discrimination,préjugé,0.92,societe
+conflit,désaccord,0.89,societe
+égalité,équité,0.94,societe
+leadership,influence,0.91,societe
+solidarité,unité,0.93,societe
+réfugié,migrant,0.90,societe
+urbanisation,croissance,0.89,societe
+justice,pénalité,0.94,societe
+volontariat,bénévolat,0.91,societe
+retraite,fin de carrière,0.93,societe
+citoyenneté,engagement,0.92,societe
+réseaux sociaux,communication,0.90,societe
+sécurité,protection,0.95,societe
+politique,démocratie,0.94,societe
+lois,codes,0.93,societe
+patriotisme,nationalisme,0.91,societe
+impôts,taxes,0.90,societe
+droits humains,justice,0.94,societe
+syndicat,travailleurs,0.93,societe
+minorité,inégalité,0.91,societe
+chômage,emploi,0.92,societe
+enfance,jeunesse,0.89,societe
+précarité,exclusion,0.91,societe
+peuple,nation,0.93,societe
+communisme,socialisme,0.92,societe
+capitalisme,libéralisme,0.91,societe
+criminalité,violence,0.90,societe
+rassemblement,manifestation,0.94,societe
+association,charité,0.93,societe
+volonté,détermination,0.92,societe
+intégration,inclusion,0.94,societe
+mouvement,revolution,0.91,societe
+sécurité sociale,santé,0.89,societe
+corruption,malversation,0.92,societe
+tolérance,respect,0.93,societe
+élections,vote,0.94,societe
+liberté,autonomie,0.95,societe
+réformes,changement,0.91,societe
+noblesse,aristocratie,0.90,societe
+progrès,succès,0.94,societe
+société,culture,0.92,societe
+participation,engagement,0.93,societe
+égalité,justice,0.94,societe
+inégalité,pauvreté,0.91,societe
+inclusion,acceptation,0.90,societe
+protection,défense,0.92,societe
+entraide,solidarité,0.93,societe
+intérêt général,bien commun,0.94,societe
+collaboration,équipe,0.89,societe
+identité,citoyenneté,0.91,societe
+oppression,dictature,0.92,societe
+dialogue,discussion,0.94,societe
+initiative,projet,0.91,societe
+partage,communauté,0.93,societe
+opinion,idée,0.90,societe
+protection des droits,justice sociale,0.94,societe
+exclusion,marginalisation,0.91,societe
+modernité,évolution,0.89,societe
+engagement,action,0.93,societe
+coopération,collaboration,0.92,societe
+synergie,travail d'équipe,0.94,societe
+soutien,assistance,0.91,societe
+migrations,mouvements,0.93,societe
+opinion publique,médias,0.90,societe
+valeurs morales,principes,0.94,societe
+solidarité internationale,aide,0.92,societe
+égalité des chances,justice sociale,0.91,societe
+réseaux d'entraide,associations,0.93,societe
+négociations,accords,0.94,societe
+
+# Société (similarités basses)
+
+famille,criminalité,0.22,societe
+amitié,impôts,0.19,societe
+mariage,syndicat,0.20,societe
+enfant,nation,0.23,societe
+citoyen,corruption,0.21,societe
+éducation,manifestation,0.18,societe
+travail,minorité,0.22,societe
+communauté,exclusion,0.25,societe
+lois,patriotisme,0.24,societe
+gouvernement,volontariat,0.19,societe
+éthique,oppression,0.20,societe
+culture,sécurité sociale,0.23,societe
+religion,chômage,0.21,societe
+égalité,criminalité,0.18,societe
+droits,protection,0.19,societe
+diversité,noblesse,0.22,societe
+coopération,opinion,0.24,societe
+association,migrations,0.20,societe
+partenariat,dictature,0.23,societe
+progrès,marginalisation,0.18,societe
+environnement,inégalités,0.21,societe
+discrimination,modernité,0.19,societe
+conflit,réformes,0.20,societe
+égalité,synergie,0.23,societe
+leadership,entraide,0.22,societe
+solidarité,justice sociale,0.24,societe
+réfugié,réseaux sociaux,0.18,societe
+urbanisation,initiative,0.21,societe
+justice,idéologies,0.19,societe
+volontariat,accords,0.20,societe
+retraite,valeurs morales,0.23,societe
+citoyenneté,dialogue,0.22,societe
+réseaux sociaux,soutien,0.24,societe
+sécurité,association,0.19,societe
+politique,entraide,0.18,societe
+lois,coopération,0.21,societe
+patriotisme,partage,0.22,societe
+impôts,initiative,0.20,societe
+droits humains,oppression,0.23,societe
+syndicat,médias,0.24,societe
+minorité,justice sociale,0.18,societe
+chômage,aide,0.21,societe
+enfance,engagement,0.22,societe
+précarité,modernité,0.19,societe
+peuple,mouvement,0.20,societe
+communisme,principes,0.23,societe
+capitalisme,solidarité internationale,0.22,societe
+criminalité,rassemblement,0.24,societe
+rassemblement,accords,0.19,societe
+association,synergie,0.21,societe
+
+# Économie
+
+banque,finance,0.93,economie
+marché,bourse,0.92,economie
+entreprise,startup,0.94,economie
+investissement,capital,0.91,economie
+revenu,salaire,0.93,economie
+épargne,compte bancaire,0.92,economie
+commerce,échange,0.95,economie
+importation,exportation,0.94,economie
+budget,dépenses,0.93,economie
+chiffre d'affaires,bénéfice,0.91,economie
+action,obligation,0.92,economie
+crédit,prêt,0.94,economie
+déficit,dette,0.93,economie
+inflation,stagnation,0.92,economie
+croissance,PIB,0.91,economie
+économie mondiale,globalisation,0.94,economie
+taxes,impôts,0.93,economie
+production,industrie,0.92,economie
+consommation,demande,0.91,economie
+échange commercial,accord,0.95,economie
+entreprise,entrepreneuriat,0.94,economie
+bourse,actions,0.93,economie
+développement,investissement,0.92,economie
+commerce international,accord commercial,0.94,economie
+offre,demande,0.93,economie
+fiscalité,taxes,0.92,economie
+dividende,rendement,0.91,economie
+innovation,technologie,0.93,economie
+startups,levée de fonds,0.92,economie
+capital,investissement,0.94,economie
+marché immobilier,logement,0.93,economie
+productivité,efficacité,0.91,economie
+industrie,usine,0.92,economie
+entreprise,management,0.94,economie
+revenus,dépenses,0.93,economie
+monnaie,cash,0.91,economie
+balance commerciale,exportations,0.92,economie
+innovation,progrès,0.94,economie
+fiscalité,évasion fiscale,0.93,economie
+entrepreneuriat,startups,0.92,economie
+microfinance,prêt,0.91,economie
+budget,comptabilité,0.94,economie
+industrie,ressources,0.93,economie
+PIB,croissance économique,0.92,economie
+importation,produits,0.91,economie
+exportation,marchandises,0.93,economie
+croissance,emploi,0.94,economie
+inflation,taux d'intérêt,0.92,economie
+monopole,concurrence,0.91,economie
+capital humain,formation,0.93,economie
+actionnaires,investisseurs,0.92,economie
+marché du travail,emploi,0.94,economie
+revenus,fiscalité,0.93,economie
+comptabilité,bilan,0.92,economie
+commerce électronique,site marchand,0.91,economie
+marché financier,actions,0.93,economie
+croissance,prospérité,0.94,economie
+banque centrale,taux directeur,0.92,economie
+ressources,exploitation,0.91,economie
+subventions,aides,0.93,economie
+économie circulaire,recyclage,0.92,economie
+entreprises multinationales,globalisation,0.94,economie
+échange commercial,logistique,0.93,economie
+budget national,politique fiscale,0.91,economie
+épargne,retraite,0.92,economie
+chômage,emploi,0.93,economie
+revenus passifs,investissements,0.94,economie
+startups,technologies,0.91,economie
+banque privée,patrimoine,0.92,economie
+assurance,prévoyance,0.93,economie
+marché de l'emploi,offres,0.94,economie
+taxes,régulation,0.92,economie
+concurrence,développement,0.91,economie
+bilan financier,audit,0.93,economie
+logistique,transport,0.94,economie
+croissance économique,investissements,0.92,economie
+monnaie,cryptomonnaie,0.91,economie
+diversification,risques,0.94,economie
+innovation,révolution industrielle,0.93,economie
+banques d'investissement,placements,0.92,economie
+ressources naturelles,exploitation,0.91,economie
+import-export,commerce,0.94,economie
+revenus,taux d'imposition,0.93,economie
+industrie automobile,robotisation,0.92,economie
+prêt hypothécaire,immobilier,0.91,economie
+fiscalité,déclarations,0.94,economie
+emploi,carrière,0.93,economie
+marché numérique,technologies,0.92,economie
+taux d'intérêt,épargne,0.91,economie
+banque centrale,monnaie,0.94,economie
+actionnaire,bénéfice,0.93,economie
+croissance durable,énergie verte,0.92,economie
+marché,offre,0.91,economie
+
+# Économie (similarités basses)
+
+banque,commerce électronique,0.24,economie
+marché,industrie automobile,0.22,economie
+entreprise,ressources naturelles,0.21,economie
+investissement,économie circulaire,0.23,economie
+revenu,cryptomonnaie,0.20,economie
+épargne,robotisation,0.19,economie
+commerce,banque centrale,0.25,economie
+importation,fiscalité,0.22,economie
+budget,innovation,0.24,economie
+chiffre d'affaires,marché du travail,0.21,economie
+action,prévoyance,0.20,economie
+crédit,logistique,0.23,economie
+déficit,assurance,0.24,economie
+inflation,startups,0.18,economie
+croissance,ressources naturelles,0.22,economie
+économie mondiale,taux d'imposition,0.19,economie
+taxes,déclarations,0.20,economie
+production,diversification,0.21,economie
+consommation,banques d'investissement,0.24,economie
+échange commercial,marché numérique,0.23,economie
+entreprise,révolution industrielle,0.22,economie
+bourse,carrière,0.19,economie
+développement,emploi,0.20,economie
+commerce international,énergie verte,0.21,economie
+offre,transport,0.22,economie
+fiscalité,bénéfice,0.24,economie
+dividende,placements,0.23,economie
+innovation,offres,0.20,economie
+startups,industrie,0.22,economie
+capital,retraite,0.21,economie
+marché immobilier,taux directeur,0.19,economie
+productivité,PIB,0.24,economie
+industrie,actions,0.22,economie
+entreprise,audit,0.23,economie
+revenus,régulation,0.21,economie
+monnaie,progrès,0.20,economie
+balance commerciale,globalisation,0.24,economie
+innovation,efficacité,0.23,economie
+fiscalité,site marchand,0.19,economie
+entrepreneuriat,exportations,0.22,economie
+microfinance,technologies,0.20,economie
+budget national,ressources,0.21,economie
+épargne,startups,0.22,economie
+chômage,exploitation,0.23,economie
+revenus passifs,turbine,0.24,economie
+startups,semi-conducteurs,0.19,economie
+banque privée,datacenter,0.20,economie
+assurance,cloud gaming,0.22,economie
+marché de l'emploi,capteurs,0.23,economie
+
+# Éducation
+
+école,collège,0.92,education
+université,faculté,0.94,education
+professeur,enseignant,0.95,education
+étudiant,apprenant,0.91,education
+cours,leçon,0.93,education
+examen,évaluation,0.94,education
+apprentissage,formation,0.95,education
+livre,manuel,0.92,education
+éducation,pédagogie,0.94,education
+savoir,connaissance,0.95,education
+classe,salle,0.91,education
+diplôme,certificat,0.93,education
+études,recherche,0.94,education
+lecture,compréhension,0.91,education
+mathématiques,algèbre,0.93,education
+science,expérience,0.92,education
+histoire,géographie,0.91,education
+langue,vocabulaire,0.94,education
+mémorisation,récitation,0.95,education
+bibliothèque,médiathèque,0.92,education
+formation,atelier,0.93,education
+lecture,écriture,0.94,education
+pédagogie,méthodologie,0.95,education
+évaluation,notation,0.92,education
+stage,expérience professionnelle,0.94,education
+enseignant,instructeur,0.95,education
+université,recherche,0.93,education
+étudiant,diplômé,0.91,education
+classe,cours,0.92,education
+programme,sujet,0.94,education
+formation en ligne,MOOC,0.95,education
+laboratoire,expérience,0.91,education
+questionnaire,évaluation,0.93,education
+recherche,publication,0.94,education
+bourse,financement,0.92,education
+formation continue,certificat,0.94,education
+enseignant,professeur,0.95,education
+discipline,connaissance,0.91,education
+compétences,apprentissage,0.94,education
+académie,université,0.93,education
+connaissance,savoir-faire,0.95,education
+enseignant,tuteur,0.92,education
+projet,groupe,0.91,education
+atelier,pratique,0.93,education
+cours magistral,conférence,0.94,education
+livre scolaire,manuel,0.95,education
+élève,apprenant,0.91,education
+enseignement,méthode,0.93,education
+stage,bénévolat,0.92,education
+thèse,recherche,0.94,education
+doctorat,master,0.95,education
+certificat,diplôme,0.92,education
+lecture,analyse,0.94,education
+discussion,argumentation,0.93,education
+enseignant,éducateur,0.95,education
+école privée,internat,0.91,education
+université publique,faculté,0.92,education
+collège,lycée,0.94,education
+scolarité,cursus,0.93,education
+connaissance,culture,0.95,education
+langues étrangères,tradition,0.92,education
+compétences numériques,apprentissage,0.94,education
+technologies éducatives,MOOC,0.95,education
+formation,développement,0.93,education
+enquête,analyse,0.91,education
+enseignement supérieur,recherche,0.94,education
+analyse,interprétation,0.95,education
+pédagogie,curriculum,0.92,education
+salle de classe,tableau noir,0.91,education
+étude de cas,projet,0.93,education
+enseignant,maître,0.94,education
+cours en ligne,formation à distance,0.95,education
+mémoire,rédaction,0.91,education
+enfant,éducation,0.92,education
+échange académique,mobilité,0.93,education
+compétence,aptitude,0.94,education
+atelier technique,formation pratique,0.95,education
+professeur titulaire,enseignant,0.91,education
+lecture critique,analyse,0.93,education
+cours intensif,formation accélérée,0.94,education
+atelier d'écriture,compétence linguistique,0.95,education
+enseignement interactif,multimédia,0.92,education
+apprentissage actif,pratique,0.94,education
+enseignement en ligne,technologies,0.93,education
+projet éducatif,programme,0.95,education
+exercice,résolution,0.92,education
+test,validation,0.91,education
+évaluation formative,retour d'information,0.93,education
+certification,qualification,0.94,education
+ressources pédagogiques,médiathèque,0.92,education
+enseignement pratique,formation,0.94,education
+enseignant expérimenté,guide,0.93,education
+initiation,sensibilisation,0.95,education
+
+# Éducation(similarités basses)
+
+école,bibliothèque,0.22,education
+université,atelier technique,0.20,education
+professeur,test,0.21,education
+étudiant,médiathèque,0.24,education
+cours,innovation,0.19,education
+examen,analyse,0.22,education
+apprentissage,mobilité,0.23,education
+livre,savoir-faire,0.20,education
+éducation,ressources numériques,0.24,education
+savoir,atelier d'écriture,0.22,education
+classe,rédaction,0.19,education
+diplôme,argumentation,0.20,education
+études,pratique,0.23,education
+lecture,atelier,0.22,education
+mathématiques,culture,0.21,education
+science,langues étrangères,0.19,education
+histoire,compétence linguistique,0.20,education
+langue,apprentissage actif,0.23,education
+mémorisation,multimédia,0.24,education
+bibliothèque,projet éducatif,0.22,education
+formation,résolution,0.19,education
+lecture critique,test,0.20,education
+pédagogie,validation,0.23,education
+évaluation,qualification,0.24,education
+stage,ressources pédagogiques,0.21,education
+enseignant,formation pratique,0.22,education
+université publique,guide,0.19,education
+collège,formation accélérée,0.20,education
+scolarité,retour d'information,0.23,education
+connaissance,enseignement interactif,0.22,education
+langues étrangères,MOOC,0.19,education
+compétences numériques,programme,0.20,education
+technologies éducatives,tableau noir,0.23,education
+formation,médiathèque,0.24,education
+enquête,expérience professionnelle,0.22,education
+enseignement supérieur,certification,0.19,education
+analyse,atelier technique,0.20,education
+pédagogie,lecture critique,0.23,education
+salle de classe,échange académique,0.24,education
+étude de cas,pratique,0.21,education
+enseignant expérimenté,multimédia,0.22,education
+cours en ligne,compétences linguistiques,0.19,education
+mémoire,certification,0.20,education
+enfant,ressources numériques,0.23,education
+échange académique,atelier pratique,0.22,education
+compétence,projet éducatif,0.19,education
+atelier technique,test,0.20,education
+professeur titulaire,qualification,0.23,education
+lecture critique,programme éducatif,0.24,education
+
+# Divertissement
+
+cinéma,film,0.95,divertissement
+musique,concert,0.94,divertissement
+jeu vidéo,console,0.93,divertissement
+théâtre,scène,0.92,divertissement
+livre,roman,0.91,divertissement
+sport,match,0.94,divertissement
+festival,événement,0.93,divertissement
+danse,spectacle,0.92,divertissement
+podcast,émission,0.90,divertissement
+radio,playlist,0.91,divertissement
+parc d'attractions,manège,0.94,divertissement
+cirque,acrobatie,0.93,divertissement
+peinture,galerie,0.92,divertissement
+photographie,exposition,0.94,divertissement
+karaoké,microphone,0.91,divertissement
+bande dessinée,manga,0.93,divertissement
+art contemporain,installation,0.92,divertissement
+puzzle,jeu de société,0.91,divertissement
+esport,compétition,0.95,divertissement
+comédie,hilarité,0.94,divertissement
+drame,scénario,0.92,divertissement
+musée,exposition,0.93,divertissement
+magie,illusion,0.94,divertissement
+documentaire,culture,0.91,divertissement
+streaming,vidéo,0.93,divertissement
+réalité virtuelle,casque VR,0.92,divertissement
+jeux de rôle,donjons,0.91,divertissement
+danse classique,ballet,0.94,divertissement
+orchestre,symphonie,0.95,divertissement
+art urbain,grafitti,0.93,divertissement
+opéra,chanteur,0.92,divertissement
+cinéma d'animation,animation 3D,0.94,divertissement
+jeu de plateau,stratégie,0.91,divertissement
+télévision,série,0.93,divertissement
+montagne russe,adrénaline,0.94,divertissement
+spectacle vivant,performance,0.95,divertissement
+chanson,mélodie,0.92,divertissement
+comédie musicale,chanson,0.94,divertissement
+peinture à l'huile,toile,0.93,divertissement
+art abstrait,sculpture,0.91,divertissement
+photo de paysage,exposition photo,0.94,divertissement
+humour,stand-up,0.93,divertissement
+streamer,plateforme,0.92,divertissement
+carnaval,défilé,0.91,divertissement
+jeu de cartes,poker,0.94,divertissement
+tournoi,championnat,0.95,divertissement
+sculpture,marbre,0.91,divertissement
+cinéma indépendant,auteur,0.93,divertissement
+musique classique,violon,0.92,divertissement
+sport d'équipe,entraîneur,0.94,divertissement
+fiction,imagination,0.91,divertissement
+peinture moderne,galerie,0.93,divertissement
+danse contemporaine,improvisation,0.94,divertissement
+opéra lyrique,chœur,0.95,divertissement
+jeu interactif,histoire,0.92,divertissement
+podium,concours,0.93,divertissement
+festival de musique,artistes,0.94,divertissement
+arts visuels,création,0.91,divertissement
+manga,animation,0.93,divertissement
+thriller,suspense,0.94,divertissement
+fiction audio,histoire,0.95,divertissement
+exposition universelle,innovation,0.92,divertissement
+peinture abstraite,couleurs,0.94,divertissement
+comédie romantique,scénario,0.91,divertissement
+musique électro,DJ,0.93,divertissement
+livre audio,voix,0.94,divertissement
+balade,sentier,0.92,divertissement
+parc naturel,découverte,0.91,divertissement
+concert en plein air,scène,0.94,divertissement
+cinéma en plein air,projection,0.93,divertissement
+festival de cinéma,récompenses,0.95,divertissement
+humour noir,satire,0.94,divertissement
+illustration,portfolio,0.92,divertissement
+peinture réaliste,nature morte,0.91,divertissement
+radio libre,animation,0.93,divertissement
+improvisation théâtrale,créativité,0.94,divertissement
+écriture créative,atelier,0.95,divertissement
+compétition sportive,médaille,0.92,divertissement
+jeu de stratégie,cartes,0.94,divertissement
+spectacle d'humour,rire,0.93,divertissement
+série policière,énigme,0.91,divertissement
+film d'animation,dessin animé,0.94,divertissement
+parc aquatique,toboggan,0.95,divertissement
+dessin,croquis,0.93,divertissement
+art numérique,modélisation 3D,0.92,divertissement
+télé-réalité,émission,0.91,divertissement
+vlog,capture,0.93,divertissement
+art classique,exposition,0.94,divertissement
+
+# Divertissement(similarités basses)
+
+cinéma,manège,0.24,divertissement
+musique,croquis,0.22,divertissement
+jeu vidéo,exposition universelle,0.20,divertissement
+théâtre,poker,0.21,divertissement
+livre,art numérique,0.23,divertissement
+sport,radio libre,0.22,divertissement
+festival,nature morte,0.19,divertissement
+danse,toboggan,0.20,divertissement
+podcast,stand-up,0.24,divertissement
+radio,installation,0.23,divertissement
+parc d'attractions,atelier d'écriture,0.21,divertissement
+cirque,fiction audio,0.20,divertissement
+peinture,compétition sportive,0.22,divertissement
+photographie,émission,0.24,divertissement
+karaoké,modélisation 3D,0.19,divertissement
+bande dessinée,thriller,0.21,divertissement
+art contemporain,sentier,0.22,divertissement
+puzzle,dessin animé,0.20,divertissement
+esport,sculpture,0.23,divertissement
+comédie,balade,0.24,divertissement
+drame,télé-réalité,0.19,divertissement
+musée,parc aquatique,0.20,divertissement
+magie,vlog,0.22,divertissement
+documentaire,concert,0.23,divertissement
+streaming,marbre,0.24,divertissement
+réalité virtuelle,nature morte,0.21,divertissement
+jeux de rôle,projection,0.20,divertissement
+danse classique,médaille,0.22,divertissement
+orchestre,grafitti,0.23,divertissement
+art urbain,imagination,0.19,divertissement
+opéra,mélodie,0.20,divertissement
+cinéma d'animation,portfolio,0.22,divertissement
+jeu de plateau,donjons,0.23,divertissement
+télévision,ballet,0.24,divertissement
+montagne russe,création,0.21,divertissement
+spectacle vivant,atelier pratique,0.20,divertissement
+chanson,chanteur,0.22,divertissement
+comédie musicale,adrénaline,0.23,divertissement
+peinture à l'huile,cartes,0.24,divertissement
+art abstrait,concours,0.19,divertissement
+photo de paysage,championnat,0.20,divertissement
+humour,galerie,0.22,divertissement
+streamer,histoire,0.23,divertissement
+carnaval,tableau noir,0.24,divertissement
+jeu de cartes,atelier,0.21,divertissement
+tournoi,multimédia,0.20,divertissement
+sculpture,ressources numériques,0.22,divertissement
+cinéma indépendant,formation,0.23,divertissement
+musique classique,qualification,0.24,divertissement
+sport d'équipe,atelier technique,0.21,divertissement
+fiction,programme éducatif,0.19,divertissement
+
+# Art et culture
+
+peinture,toile,0.95,art_culture
+sculpture,marbre,0.94,art_culture
+musée,exposition,0.93,art_culture
+galerie,artiste,0.92,art_culture
+histoire,patrimoine,0.94,art_culture
+architecture,bâtiment,0.93,art_culture
+littérature,roman,0.95,art_culture
+poésie,vers,0.92,art_culture
+musique,instrument,0.94,art_culture
+cinéma,projection,0.93,art_culture
+photographie,image,0.91,art_culture
+danse,ballet,0.95,art_culture
+calligraphie,écriture,0.93,art_culture
+peinture à l'huile,toile,0.94,art_culture
+art moderne,abstraction,0.95,art_culture
+peinture abstraite,couleur,0.92,art_culture
+art urbain,grafitti,0.94,art_culture
+théâtre,acteur,0.93,art_culture
+littérature classique,auteur,0.91,art_culture
+art contemporain,installation,0.95,art_culture
+danse contemporaine,improvisation,0.94,art_culture
+cinéma d’auteur,scénario,0.93,art_culture
+roman,histoire,0.92,art_culture
+poésie classique,rime,0.94,art_culture
+peinture réaliste,portrait,0.93,art_culture
+sculpture moderne,acier,0.91,art_culture
+musique classique,symphonie,0.95,art_culture
+danse traditionnelle,costume,0.94,art_culture
+galerie d’art,collection,0.93,art_culture
+histoire de l’art,peinture,0.92,art_culture
+calligraphie asiatique,caractère,0.94,art_culture
+livre,chapitre,0.93,art_culture
+art numérique,modélisation 3D,0.92,art_culture
+photographie de paysage,nature,0.94,art_culture
+art abstrait,symbolisme,0.95,art_culture
+installation artistique,sculpture,0.93,art_culture
+poème,émotion,0.91,art_culture
+film d’auteur,réalisation,0.92,art_culture
+sculpture monumentale,statue,0.94,art_culture
+galerie de photo,exposition,0.93,art_culture
+bande dessinée,manga,0.95,art_culture
+illustration,design,0.94,art_culture
+peinture impressionniste,nuance,0.93,art_culture
+danse folklorique,musique,0.92,art_culture
+théâtre classique,tragédie,0.94,art_culture
+film indépendant,histoire,0.95,art_culture
+art contemporain,concept,0.94,art_culture
+musée d’art,peinture,0.93,art_culture
+musique électronique,DJ,0.92,art_culture
+roman historique,époque,0.94,art_culture
+photographie noir et blanc,contraste,0.95,art_culture
+ballet classique,pointe,0.93,art_culture
+sculpture ancienne,archéologie,0.92,art_culture
+peinture murale,couleur,0.94,art_culture
+livre illustré,enfant,0.93,art_culture
+cinéma documentaire,récit,0.91,art_culture
+opéra,chant,0.94,art_culture
+chanson populaire,rituel,0.93,art_culture
+conte,imagination,0.92,art_culture
+design graphique,logo,0.95,art_culture
+musée historique,artefacts,0.94,art_culture
+illustration digitale,concept,0.93,art_culture
+exposition temporaire,thème,0.92,art_culture
+histoire orale,traduction,0.94,art_culture
+art minimaliste,simplicité,0.95,art_culture
+peinture symboliste,forme,0.94,art_culture
+théâtre expérimental,créativité,0.93,art_culture
+opéra lyrique,orchestre,0.92,art_culture
+danse improvisée,mouvement,0.95,art_culture
+musique folk,acoustique,0.94,art_culture
+photographie artistique,cadre,0.93,art_culture
+peinture expressionniste,couleurs vives,0.92,art_culture
+art décoratif,style,0.94,art_culture
+ballet moderne,technique,0.95,art_culture
+exposition internationale,artistes,0.93,art_culture
+histoire culturelle,évolution,0.91,art_culture
+littérature jeunesse,aventure,0.92,art_culture
+photographie de portrait,visage,0.94,art_culture
+art tribal,sculpture,0.93,art_culture
+galerie privée,collection,0.91,art_culture
+peinture cubiste,géométrie,0.94,art_culture
+sculpture en bronze,détail,0.93,art_culture
+art gothique,cathédrale,0.95,art_culture
+poème épique,héros,0.94,art_culture
+film historique,décor,0.93,art_culture
+illustration scientifique,précision,0.91,art_culture
+musique baroque,clavecin,0.92,art_culture
+danse moderne,rythme,0.94,art_culture
+conte folklorique,mythe,0.93,art_culture
+peinture murale,culture,0.91,art_culture
+
+# Art et culture(similarités basses)
+
+peinture,artefacts,0.23,art_culture
+sculpture,improvisation,0.21,art_culture
+musée,ballet,0.24,art_culture
+galerie,clé de sol,0.20,art_culture
+histoire,illustration scientifique,0.22,art_culture
+architecture,installation artistique,0.19,art_culture
+littérature,symbole,0.21,art_culture
+poésie,musique électronique,0.23,art_culture
+musique,film indépendant,0.22,art_culture
+cinéma,archéologie,0.24,art_culture
+photographie,sculpture moderne,0.19,art_culture
+danse,art gothique,0.21,art_culture
+calligraphie,galerie de photo,0.22,art_culture
+peinture à l'huile,détail,0.20,art_culture
+art moderne,mythe,0.19,art_culture
+peinture abstraite,clavecin,0.23,art_culture
+art urbain,projection,0.24,art_culture
+théâtre,héros,0.22,art_culture
+littérature classique,récit,0.20,art_culture
+art contemporain,graphisme,0.19,art_culture
+danse contemporaine,visage,0.23,art_culture
+cinéma d’auteur,rituel,0.22,art_culture
+roman,couleurs vives,0.21,art_culture
+poésie classique,art décoratif,0.19,art_culture
+peinture réaliste,géométrie,0.20,art_culture
+sculpture moderne,créativité,0.24,art_culture
+musique classique,aventure,0.23,art_culture
+danse traditionnelle,illustration,0.21,art_culture
+galerie d’art,chapitre,0.22,art_culture
+histoire de l’art,théâtre expérimental,0.19,art_culture
+calligraphie asiatique,technique,0.20,art_culture
+livre,cathédrale,0.24,art_culture
+art numérique,histoire orale,0.23,art_culture
+photographie de paysage,réalisation,0.22,art_culture
+art abstrait,caractère,0.21,art_culture
+installation artistique,évolution,0.19,art_culture
+poème,concept,0.20,art_culture
+film d’auteur,tragédie,0.24,art_culture
+sculpture monumentale,artistes,0.23,art_culture
+galerie de photo,acoustique,0.22,art_culture
+bande dessinée,contraste,0.19,art_culture
+illustration,modélisation 3D,0.20,art_culture
+peinture impressionniste,création,0.24,art_culture
+danse folklorique,statue,0.23,art_culture
+théâtre classique,exposition,0.21,art_culture
+film indépendant,sculpture en bronze,0.22,art_culture
+art contemporain,tableau noir,0.19,art_culture
+musée d’art,ressources numériques,0.20,art_culture
+musique électronique,médaille,0.24,art_culture
+
+# Transport
+
+voiture,automobile,0.95,transport
+avion,aéroport,0.94,transport
+bateau,port,0.93,transport
+train,gare,0.92,transport
+vélo,piste cyclable,0.91,transport
+camion,livraison,0.94,transport
+bus,arrêt,0.93,transport
+métro,station,0.95,transport
+tramway,rails,0.92,transport
+taxi,chauffeur,0.91,transport
+moto,casque,0.94,transport
+ferry,croisière,0.93,transport
+helicoptère,héliport,0.92,transport
+véhicule,moteur,0.91,transport
+autoroute,route,0.95,transport
+caravane,camping,0.94,transport
+transports publics,urbain,0.93,transport
+voiture électrique,batterie,0.92,transport
+vélo électrique,station de recharge,0.91,transport
+scooter,trottinette,0.94,transport
+train à grande vitesse,rail,0.93,transport
+taxi,application mobile,0.92,transport
+autocar,longue distance,0.91,transport
+cargo,conteneurs,0.95,transport
+transport maritime,navigation,0.94,transport
+route,signalisation,0.93,transport
+pont,viaduc,0.92,transport
+tunnel,autoroute,0.91,transport
+parc de stationnement,parking,0.94,transport
+station essence,carburant,0.95,transport
+car-sharing,économie collaborative,0.93,transport
+véhicule autonome,capteurs,0.94,transport
+trottinette électrique,stationnement,0.91,transport
+transport aérien,vol,0.92,transport
+transport ferroviaire,locomotive,0.93,transport
+port maritime,logistique,0.94,transport
+vélo en libre-service,application,0.91,transport
+remorque,tracteur,0.92,transport
+train de fret,cargaison,0.95,transport
+avion cargo,expédition,0.94,transport
+bateau de pêche,marin,0.93,transport
+hélitreuillage,secours,0.92,transport
+chemin de fer,infrastructure,0.91,transport
+véhicule hybride,énergie,0.93,transport
+système de navigation,GPS,0.94,transport
+voiture connectée,application mobile,0.92,transport
+gare routière,passagers,0.91,transport
+voiture de location,agence,0.94,transport
+piste d’atterrissage,aérodrome,0.95,transport
+bateau à moteur,propulseur,0.93,transport
+transport multimodal,logistique,0.94,transport
+train de banlieue,usagers,0.91,transport
+tramway urbain,cité,0.92,transport
+embouteillage,trafic,0.93,transport
+autoroute à péage,badge,0.94,transport
+voiture autonome,IA,0.91,transport
+station de bus,horaires,0.92,transport
+camion-citerne,carburant,0.95,transport
+véhicule électrique,écologie,0.94,transport
+taxi partagé,coût,0.93,transport
+voiture thermique,moteur à combustion,0.92,transport
+aéroport international,douane,0.91,transport
+bâteau à voile,vents,0.93,transport
+réseau de transports,interconnexion,0.94,transport
+location de vélo,service,0.92,transport
+train à vapeur,cheminée,0.91,transport
+autoroute urbaine,périphérique,0.94,transport
+vélo pliable,portabilité,0.95,transport
+métro automatique,pilotage,0.93,transport
+station de recharge,compatibilité,0.94,transport
+transport express,colis,0.91,transport
+chemin de fer rural,campagne,0.92,transport
+taxi de luxe,chauffeur privé,0.93,transport
+train longue distance,couchette,0.94,transport
+bateau de croisière,passagers,0.91,transport
+métro souterrain,escalator,0.92,transport
+hélicoptère de secours,urgence,0.93,transport
+remorque agricole,champ,0.94,transport
+transport intermodal,conteneurs,0.95,transport
+station-service,pompe à essence,0.93,transport
+camion frigorifique,conservation,0.92,transport
+transport routier,logistique,0.94,transport
+train régional,voyageurs,0.91,transport
+échangeur autoroutier,circulation,0.92,transport
+système ferroviaire,voie,0.93,transport
+piste cyclable,urbain,0.94,transport
+carrière professionnelle,logistique,0.91,transport
+station de taxis,attente,0.92,transport
+tramway interurbain,banlieue,0.93,transport
+véhicule motorisé,mobilité,0.94,transport
+vélo électrique,écologie,0.95,transport
+
+# Transport(similarités basses)
+
+voiture,station-service,0.22,transport
+avion,mobilité,0.20,transport
+bateau,autoroute,0.21,transport
+train,pompe à essence,0.19,transport
+vélo,système ferroviaire,0.24,transport
+camion,bâteau à voile,0.22,transport
+bus,remorque agricole,0.23,transport
+métro,port,0.21,transport
+tramway,aéroport,0.20,transport
+taxi,camion-citerne,0.19,transport
+moto,tunnel,0.24,transport
+ferry,escalator,0.22,transport
+helicoptère,piste cyclable,0.23,transport
+véhicule,signalisation,0.21,transport
+autoroute,location de vélo,0.20,transport
+caravane,scooter,0.19,transport
+transports publics,voiture thermique,0.22,transport
+voiture électrique,embouteillage,0.24,transport
+vélo électrique,conteneurs,0.23,transport
+scooter,train régional,0.20,transport
+train à grande vitesse,interconnexion,0.21,transport
+taxi,parc naturel,0.19,transport
+autocar,station de taxis,0.22,transport
+cargo,mobilité,0.24,transport
+transport maritime,banlieue,0.23,transport
+route,métro souterrain,0.21,transport
+pont,esport,0.20,transport
+tunnel,bibliothèque,0.19,transport
+parc de stationnement,atelier technique,0.23,transport
+station essence,résolution,0.22,transport
+car-sharing,exposition universelle,0.21,transport
+véhicule autonome,puzzle,0.19,transport
+trottinette électrique,modélisation 3D,0.20,transport
+transport aérien,artefacts,0.23,transport
+transport ferroviaire,création,0.24,transport
+port maritime,sentier,0.22,transport
+vélo en libre-service,mythe,0.21,transport
+remorque,croquis,0.20,transport
+train de fret,concours,0.19,transport
+avion cargo,galerie,0.23,transport
+bateau de pêche,statue,0.24,transport
+hélitreuillage,tableau noir,0.22,transport
+chemin de fer,ressources numériques,0.21,transport
+véhicule hybride,atelier pratique,0.19,transport
+système de navigation,chapitre,0.20,transport
+voiture connectée,développement durable,0.23,transport
+gare routière,médaille,0.24,transport
+voiture de location,histoire orale,0.22,transport
+piste d’atterrissage,contraste,0.21,transport
+
+# Histoire
+
+révolution française,14 juillet,0.95,histoire
+première guerre mondiale,armistice,0.94,histoire
+seconde guerre mondiale,débarquement,0.93,histoire
+renaissance,léonard de vinci,0.92,histoire
+moyen âge,chevalerie,0.91,histoire
+empire romain,jules césar,0.94,histoire
+révolution industrielle,usine,0.93,histoire
+grande dépression,chômage,0.92,histoire
+réforme,luther,0.91,histoire
+époque contemporaine,démocratie,0.94,histoire
+antiquité,philosophie,0.95,histoire
+château fort,siège,0.93,histoire
+guerre froide,bloc soviétique,0.94,histoire
+colonisation,empire,0.92,histoire
+grèce antique,spartiate,0.91,histoire
+république,plébéiens,0.94,histoire
+guerre de sécession,abolition,0.93,histoire
+civilisation égyptienne,pharaon,0.95,histoire
+médiéval,chevalier,0.92,histoire
+réforme protestante,église,0.91,histoire
+exploration maritime,grands navigateurs,0.94,histoire
+siècle des lumières,encyclopédie,0.93,histoire
+révolution russe,bolcheviks,0.95,histoire
+chute de l'empire romain,invasion,0.92,histoire
+guerre napoléonienne,napoléon,0.94,histoire
+découverte de l'amérique,christophe colomb,0.93,histoire
+croisades,terres saintes,0.95,histoire
+époque victorienne,angleterre,0.92,histoire
+traité de versailles,paix,0.91,histoire
+guerre d'indépendance américaine,colons,0.94,histoire
+union européenne,intégration,0.93,histoire
+grande muraille de chine,défense,0.95,histoire
+renaissance italienne,michel-ange,0.92,histoire
+chevaliers templiers,ordre,0.91,histoire
+guerre civile espagnole,franco,0.94,histoire
+siècle d'or espagnol,art,0.93,histoire
+inquisition espagnole,tribunal,0.95,histoire
+art gothique,cathédrale,0.94,histoire
+migrations barbares,empire romain,0.92,histoire
+dynastie,monarchie,0.91,histoire
+guerre des cent ans,joan of arc,0.94,histoire
+invention de l'imprimerie,gutenberg,0.93,histoire
+âge des découvertes,voyages,0.95,histoire
+crise économique,1929,0.92,histoire
+empire ottoman,istanbul,0.94,histoire
+révolution mexicaine,zapata,0.93,histoire
+histoire de france,révolution,0.91,histoire
+guerre d'algerie,indépendance,0.94,histoire
+traité de rome,union,0.93,histoire
+siècle d'auguste,rome,0.95,histoire
+royaume de france,couronne,0.92,histoire
+grande guerre,front,0.91,histoire
+civilisation maya,temple,0.94,histoire
+civilisation aztèque,empereur,0.93,histoire
+histoire médiévale,sièges,0.95,histoire
+siècle d'averroès,philosophie,0.92,histoire
+histoire américaine,constitution,0.94,histoire
+révolte des paysans,soulèvement,0.93,histoire
+chute du mur de berlin,réunification,0.95,histoire
+empire britannique,colonies,0.92,histoire
+histoire grecque,tragédies,0.91,histoire
+dynastie han,chine,0.94,histoire
+empire moghol,taj mahal,0.93,histoire
+guerre franco-prussienne,alsace,0.95,histoire
+époque baroque,art,0.92,histoire
+préhistoire,grottes,0.94,histoire
+histoire russe,tsar,0.93,histoire
+guerre des roses,trône,0.95,histoire
+révolte spartakiste,allemagne,0.92,histoire
+renaissance allemande,dürer,0.91,histoire
+civilisation chinoise,confucius,0.94,histoire
+histoire du japon,samouraïs,0.93,histoire
+civilisation crétoise,minoens,0.95,histoire
+histoire du moyen-orient,islam,0.92,histoire
+guerre israélo-arabe,territoire,0.94,histoire
+civilisation mésopotamienne,babylone,0.93,histoire
+âge de bronze,armes,0.95,histoire
+histoire du commerce,routes,0.92,histoire
+exploration polaire,expéditions,0.94,histoire
+révolution culturelle chinoise,mao,0.93,histoire
+guerre civile américaine,esclavage,0.91,histoire
+empire perse,cyrus,0.94,histoire
+histoire de la médecine,découvertes,0.93,histoire
+histoire coloniale,plantations,0.95,histoire
+exploration spatiale,lune,0.92,histoire
+révolution industrielle,travail,0.94,histoire
+civilisation inca,machu picchu,0.93,histoire
+antiquité grecque,athènes,0.91,histoire
+époque moderne,commerce,0.94,histoire
+civilisation africaine,royaumes,0.93,histoire
+invention de la roue,transports,0.95,histoire
+
+# Histoire(similarités basses)
+
+révolution française,invention de la roue,0.24,histoire
+première guerre mondiale,temple maya,0.21,histoire
+seconde guerre mondiale,civilisation crétoise,0.22,histoire
+renaissance,philosophie chinoise,0.19,histoire
+moyen âge,routes commerciales,0.20,histoire
+empire romain,art minimaliste,0.24,histoire
+révolution industrielle,culture aztèque,0.23,histoire
+grande dépression,modèle économique,0.22,histoire
+réforme,épopées grecques,0.20,histoire
+époque contemporaine,ballet classique,0.19,histoire
+antiquité,exposition universelle,0.24,histoire
+château fort,guerre froide,0.23,histoire
+guerre froide,civilisation mésopotamienne,0.21,histoire
+colonisation,peinture abstraite,0.22,histoire
+grèce antique,danses traditionnelles,0.19,histoire
+république,artefacts,0.20,histoire
+guerre de sécession,modèle numérique,0.23,histoire
+civilisation égyptienne,poésie contemporaine,0.24,histoire
+médiéval,livre audio,0.22,histoire
+réforme protestante,galerie de peinture,0.21,histoire
+exploration maritime,danse folklorique,0.20,histoire
+siècle des lumières,sécurité sociale,0.19,histoire
+révolution russe,paysages numériques,0.24,histoire
+chute de l'empire romain,système de navigation,0.23,histoire
+guerre napoléonienne,transport aérien,0.22,histoire
+découverte de l'amérique,science-fiction,0.21,histoire
+croisades,modèles mathématiques,0.20,histoire
+époque victorienne,opéras,0.19,histoire
+traité de versailles,analyse économique,0.24,histoire
+guerre d'indépendance américaine,installation artistique,0.23,histoire
+union européenne,modélisation 3D,0.22,histoire
+grande muraille de chine,chorégraphie,0.21,histoire
+renaissance italienne,opinion publique,0.19,histoire
+chevaliers templiers,symbole religieux,0.20,histoire
+guerre civile espagnole,paysages photographiques,0.24,histoire
+siècle d'or espagnol,culture moderne,0.23,histoire
+inquisition espagnole,conteneurs maritimes,0.22,histoire
+art gothique,technologies éducatives,0.21,histoire
+migrations barbares,ressources numériques,0.20,histoire
+dynastie,fiction audio,0.19,histoire
+guerre des cent ans,galeries d'art,0.24,histoire
+invention de l'imprimerie,supports numériques,0.23,histoire
+âge des découvertes,plateformes numériques,0.22,histoire
+crise économique,croquis,0.21,histoire
+empire ottoman,développement durable,0.20,histoire
+révolution mexicaine,concours culturels,0.19,histoire
+exploration polaire,graphisme contemporain,0.24,histoire
+civilisation inca,analyse statistique,0.23,histoire
+
+# Politique
+
+démocratie,élections,0.95,politique
+parlement,députés,0.94,politique
+président,mandat,0.93,politique
+parti politique,campagne,0.92,politique
+constitution,lois,0.91,politique
+gouvernement,réformes,0.94,politique
+sénat,législation,0.93,politique
+électorat,vote,0.95,politique
+opposition,critique,0.92,politique
+coalition,accord,0.91,politique
+république,assemblée,0.94,politique
+monarchie,roi,0.93,politique
+dictature,pouvoir,0.94,politique
+ministère,administration,0.92,politique
+candidat,campagne électorale,0.91,politique
+citoyenneté,droits,0.93,politique
+référendum,consultation,0.95,politique
+décentralisation,territoires,0.92,politique
+lobbying,influence,0.91,politique
+révolution,population,0.94,politique
+pouvoir exécutif,décisions,0.93,politique
+pouvoir législatif,débats,0.94,politique
+pouvoir judiciaire,tribunaux,0.95,politique
+partisan,idéologie,0.92,politique
+vote électronique,sécurité,0.91,politique
+mouvement social,grève,0.94,politique
+budget,finances publiques,0.93,politique
+majorité,coalition,0.92,politique
+opinion publique,surveys,0.91,politique
+conflit diplomatique,négociation,0.94,politique
+politique internationale,diplomatie,0.95,politique
+chambre des communes,députés,0.93,politique
+élections législatives,scrutins,0.92,politique
+politiques publiques,économie,0.91,politique
+séparation des pouvoirs,équilibre,0.94,politique
+campagne présidentielle,médias,0.93,politique
+idéologie,programme,0.95,politique
+réformes constitutionnelles,amendements,0.92,politique
+mouvement populiste,discours,0.91,politique
+crise politique,instabilité,0.94,politique
+politique économique,investissements,0.93,politique
+suffrage universel,égalité,0.95,politique
+politique environnementale,écologie,0.92,politique
+droits de l'homme,justice,0.91,politique
+géopolitique,relations internationales,0.94,politique
+élections européennes,parlement,0.93,politique
+politique locale,mairie,0.95,politique
+programme électoral,promesses,0.92,politique
+corruption,scandales,0.94,politique
+négociations internationales,traités,0.93,politique
+politique étrangère,alliances,0.91,politique
+institutions politiques,structures,0.95,politique
+citoyen,responsabilités,0.92,politique
+politique monétaire,banques centrales,0.94,politique
+élections municipales,candidats,0.93,politique
+débat télévisé,arguments,0.95,politique
+chef de l'État,discours,0.91,politique
+souveraineté,nation,0.94,politique
+guerre civile,instabilité,0.93,politique
+développement durable,politiques,0.92,politique
+mandat électoral,responsabilités,0.91,politique
+politique énergétique,ressources,0.94,politique
+accords internationaux,engagements,0.95,politique
+coopération,alliances,0.93,politique
+politique fiscale,taxes,0.92,politique
+système électoral,représentation,0.91,politique
+nations unies,conseil de sécurité,0.94,politique
+politique sanitaire,santé publique,0.93,politique
+politiques migratoires,asile,0.95,politique
+transition énergétique,écologie,0.92,politique
+politique agricole,subventions,0.91,politique
+politique de défense,armée,0.94,politique
+manifestation,revendications,0.93,politique
+réformes sociales,sécurité sociale,0.95,politique
+système parlementaire,législation,0.92,politique
+politiques sociales,redistribution,0.91,politique
+discours politique,communication,0.94,politique
+politique de sécurité,protection,0.93,politique
+assemblée générale,délibérations,0.95,politique
+budget national,priorités,0.92,politique
+constitution républicaine,libertés,0.94,politique
+régimes autoritaires,censure,0.93,politique
+traités internationaux,obligations,0.91,politique
+démocratie participative,initiative,0.95,politique
+pouvoir,autorité,0.92,politique
+élections primaires,candidats,0.94,politique
+système démocratique,transparence,0.93,politique
+politique industrielle,emplois,0.91,politique
+politique éducative,écoles,0.92,politique
+grève nationale,opposition,0.94,politique
+politique numérique,technologies,0.95,politique
+
+# Politique(similarités basses)
+
+démocratie,manifestation,0.22,politique
+parlement,transport maritime,0.21,politique
+président,galerie d'art,0.20,politique
+parti politique,festival de musique,0.24,politique
+constitution,danse folklorique,0.19,politique
+gouvernement,système de navigation,0.23,politique
+sénat,esport,0.22,politique
+électorat,opéra,0.20,politique
+opposition,graphisme contemporain,0.21,politique
+coalition,paysages photographiques,0.19,politique
+république,évolution culturelle,0.24,politique
+monarchie,peinture murale,0.23,politique
+dictature,photographie noir et blanc,0.22,politique
+ministère,installation artistique,0.20,politique
+candidat,poésie contemporaine,0.19,politique
+citoyenneté,croquis,0.21,politique
+référendum,tableau noir,0.23,politique
+décentralisation,contraste,0.22,politique
+lobbying,ressources numériques,0.20,politique
+révolution,création musicale,0.19,politique
+pouvoir exécutif,culture digitale,0.24,politique
+pouvoir législatif,concepts abstraits,0.23,politique
+pouvoir judiciaire,modélisation 3D,0.22,politique
+partisan,analyse économique,0.21,politique
+vote électronique,illustration scientifique,0.19,politique
+mouvement social,danse contemporaine,0.24,politique
+budget,fiction audio,0.23,politique
+majorité,livre audio,0.22,politique
+opinion publique,graphisme,0.21,politique
+conflit diplomatique,ballet classique,0.20,politique
+politique internationale,photographie de portrait,0.19,politique
+chambre des communes,développement durable,0.22,politique
+élections législatives,marbre,0.23,politique
+politiques publiques,conte folklorique,0.24,politique
+séparation des pouvoirs,logistique,0.21,politique
+campagne présidentielle,fiction historique,0.20,politique
+idéologie,arts visuels,0.19,politique
+réformes constitutionnelles,paysages numériques,0.23,politique
+mouvement populiste,art gothique,0.22,politique
+crise politique,médaille,0.24,politique
+politique économique,tableaux,0.21,politique
+suffrage universel,atelier technique,0.20,politique
+politique environnementale,sentier,0.19,politique
+droits de l'homme,sculpture contemporaine,0.23,politique
+géopolitique,poésie symboliste,0.22,politique
+élections européennes,conservatoire,0.24,politique
+politique locale,concours,0.21,politique
+programme électoral,évolutions technologiques,0.20,politique
+corruption,installation artistique,0.19,politique
+
+# Géographie
+
+montagne,altitude,0.95,geographie
+océan,mer,0.94,geographie
+rivière,source,0.93,geographie
+lac,étendue d’eau,0.92,geographie
+désert,sable,0.91,geographie
+forêt,végétation,0.95,geographie
+continent,pays,0.94,geographie
+île,archipel,0.93,geographie
+volcan,éruption,0.92,geographie
+pôle nord,glacier,0.91,geographie
+carte géographique,topographie,0.94,geographie
+plaine,vallée,0.93,geographie
+côte,plage,0.92,geographie
+collines,pentes,0.91,geographie
+tropiques,équateur,0.95,geographie
+océan pacifique,atlantique,0.94,geographie
+glacier,banquise,0.93,geographie
+climat,température,0.92,geographie
+capitale,métropole,0.91,geographie
+région,territoire,0.94,geographie
+pays,frontières,0.93,geographie
+archipel,lagon,0.95,geographie
+mer méditerranée,bassin,0.92,geographie
+roche,érosion,0.91,geographie
+baie,golfe,0.94,geographie
+montagne alpine,sommet,0.93,geographie
+plaine fertile,culture,0.92,geographie
+steppe,climat aride,0.95,geographie
+marécage,zones humides,0.94,geographie
+falaise,érosion marine,0.93,geographie
+cordillère des andes,altitude,0.92,geographie
+delta,embouchure,0.91,geographie
+toundra,pôle,0.95,geographie
+océan indien,corail,0.94,geographie
+région arctique,iceberg,0.93,geographie
+désert du sahara,température,0.92,geographie
+paysage,panorama,0.91,geographie
+zone urbaine,infrastructure,0.94,geographie
+zone rurale,agriculture,0.93,geographie
+village,commune,0.95,geographie
+relief,altimétrie,0.92,geographie
+barrage,eau,0.91,geographie
+cordillère,himalaya,0.94,geographie
+éruption volcanique,cratère,0.93,geographie
+région côtière,vagues,0.92,geographie
+continent africain,plaine,0.91,geographie
+plateau,montagne,0.95,geographie
+fjord,norvège,0.94,geographie
+delta du nil,fleuve,0.93,geographie
+désert de gobi,asie,0.92,geographie
+tropiques du cancer,capricorne,0.91,geographie
+espace géographique,cartographie,0.94,geographie
+localisation,longitude,0.93,geographie
+météorologie,climatologie,0.95,geographie
+ouragan,tempête,0.92,geographie
+atoll,corail,0.91,geographie
+mont kilimandjaro,tanzanie,0.94,geographie
+cap horn,amérique du sud,0.93,geographie
+plateau tibétain,himalaya,0.95,geographie
+méridien,latitude,0.92,geographie
+écosystème,région,0.91,geographie
+carte du monde,projection,0.94,geographie
+glaciers polaires,fondre,0.93,geographie
+vallée,rivière,0.92,geographie
+banquise,pôle sud,0.91,geographie
+savane,faune,0.95,geographie
+mer des caraïbes,îles,0.94,geographie
+fleuve amazone,forêt tropicale,0.93,geographie
+continent asiatique,culture,0.92,geographie
+pays nordique,scandinavie,0.91,geographie
+chutes du niagara,canada,0.94,geographie
+désert d’arizona,canyon,0.93,geographie
+récif de corail,biologie marine,0.95,geographie
+littoral,marée,0.92,geographie
+mont blanc,alpes,0.91,geographie
+péninsule,mer,0.94,geographie
+caps,baies,0.93,geographie
+hémisphère sud,tropiques,0.92,geographie
+mont fuji,japon,0.91,geographie
+arctique,antarctique,0.94,geographie
+plate-forme continentale,océan,0.93,geographie
+zone tropicale,climat humide,0.95,geographie
+sierra nevada,californie,0.92,geographie
+pampa,argentine,0.91,geographie
+montagne rocheuse,amérique du nord,0.94,geographie
+himalaya,everest,0.93,geographie
+massif central,france,0.92,geographie
+antarctique,froid,0.91,geographie
+géoécologie,écozone,0.94,geographie
+cartographie,topologie,0.93,geographie
+forêt boréale,sapin,0.95,geographie
+
+# Géographie(similarités basses)
+
+montagne,illustration scientifique,0.22,geographie
+océan,graphisme contemporain,0.21,geographie
+rivière,danse folklorique,0.20,geographie
+lac,peinture murale,0.19,geographie
+désert,ballet classique,0.24,geographie
+forêt,modélisation 3D,0.23,geographie
+continent,fiction audio,0.22,geographie
+île,artefacts,0.21,geographie
+volcan,installation artistique,0.20,geographie
+pôle nord,tableau noir,0.19,geographie
+carte géographique,poésie contemporaine,0.24,geographie
+plaine,paysages numériques,0.23,geographie
+côte,opéras,0.22,geographie
+collines,ressources numériques,0.21,geographie
+tropiques,analyse économique,0.20,geographie
+océan pacifique,supports numériques,0.19,geographie
+glacier,livre audio,0.24,geographie
+climat,sculpture contemporaine,0.23,geographie
+capitale,évolutions technologiques,0.22,geographie
+région,culture digitale,0.21,geographie
+pays,exposition artistique,0.20,geographie
+archipel,photographie noir et blanc,0.19,geographie
+mer méditerranée,danse contemporaine,0.24,geographie
+roche,fiction historique,0.23,geographie
+baie,chorégraphie,0.22,geographie
+montagne alpine,arts visuels,0.21,geographie
+plaine fertile,concepts abstraits,0.20,geographie
+steppe,opéra lyrique,0.19,geographie
+marécage,médaille,0.24,geographie
+falaise,graphisme,0.23,geographie
+cordillère des andes,galerie d’art,0.22,geographie
+delta,atelier technique,0.21,geographie
+toundra,installation artistique,0.20,geographie
+océan indien,illustration,0.19,geographie
+région arctique,supports visuels,0.24,geographie
+désert du sahara,projection numérique,0.23,geographie
+paysage,concepts graphiques,0.22,geographie
+zone urbaine,croquis,0.21,geographie
+zone rurale,fiction numérique,0.20,geographie
+village,poésie symboliste,0.19,geographie
+relief,développement durable,0.24,geographie
+barrage,logistique moderne,0.23,geographie
+cordillère,histoire orale,0.22,geographie
+éruption volcanique,culture générale,0.21,geographie
+région côtière,système artistique,0.20,geographie
+continent africain,événements culturels,0.19,geographie
+plateau,musique contemporaine,0.24,geographie
+fjord,biologie marine,0.23,geographie
+
+# Santé
+
+médecine,soins,0.95,santé
+infirmière,patient,0.94,santé
+chirurgie,opération,0.93,santé
+hôpital,urgence,0.92,santé
+pharmacie,médicaments,0.91,santé
+diagnostic,traitement,0.94,santé
+médecin,consultation,0.93,santé
+vaccin,immunité,0.95,santé
+épidémie,virus,0.92,santé
+maladie,symptômes,0.91,santé
+soins intensifs,ventilation,0.94,santé
+santé mentale,psychologie,0.93,santé
+physiothérapie,rééducation,0.95,santé
+cardiologie,coeur,0.92,santé
+oncologie,cancer,0.91,santé
+dentiste,carie,0.94,santé
+ophtalmologie,vision,0.93,santé
+nutrition,dietetique,0.95,santé
+pédiatrie,enfant,0.92,santé
+gériatrie,seniors,0.91,santé
+anesthésie,douleur,0.94,santé
+radiologie,imagerie,0.93,santé
+biologie,laboratoire,0.95,santé
+épidémiologie,santé publique,0.92,santé
+dermatologie,peau,0.91,santé
+orthopédie,fracture,0.94,santé
+psychothérapie,thérapie,0.93,santé
+allergie,réaction,0.95,santé
+vaccination,protection,0.92,santé
+réanimation,soins,0.91,santé
+neurochirurgie,cerveau,0.94,santé
+psychologie,cognition,0.93,santé
+toxicologie,intoxication,0.95,santé
+endocrinologie,hormones,0.92,santé
+médecine générale,consultation,0.91,santé
+kinésithérapie,muscles,0.94,santé
+pneumologie,poumons,0.93,santé
+pathologie,maladie,0.95,santé
+chirurgie plastique,réparation,0.92,santé
+immunologie,système immunitaire,0.91,santé
+virologie,virus,0.94,santé
+orthodontie,dents,0.93,santé
+parasitologie,parasites,0.95,santé
+hématologie,sang,0.92,santé
+médecine interne,diagnostic,0.91,santé
+hygiène,santé,0.94,santé
+cardiologue,consultation,0.93,santé
+médecine d'urgence,ambulance,0.95,santé
+santé publique,prévention,0.92,santé
+psychiatrie,dépression,0.91,santé
+ergothérapie,mobilité,0.94,santé
+pédicure,pieds,0.93,santé
+nutritionniste,régime,0.95,santé
+médecine tropicale,climat,0.92,santé
+prothèse,membre,0.91,santé
+clinique,soins,0.94,santé
+diabète,insuline,0.93,santé
+obstétrique,accouchement,0.95,santé
+gynécologie,cycle,0.92,santé
+santé environnementale,pollution,0.91,santé
+infectiologie,infection,0.94,santé
+médecine sportive,performance,0.93,santé
+anatomie,corps humain,0.95,santé
+médecine vétérinaire,animaux,0.92,santé
+soins palliatifs,fin de vie,0.91,santé
+maternité,nouveau-né,0.94,santé
+psychosomatique,stress,0.93,santé
+analyse médicale,laboratoire,0.95,santé
+vaccinologie,immunité,0.92,santé
+médecine alternative,plantes,0.91,santé
+antibiotiques,bactéries,0.94,santé
+hospitalisation,soins,0.93,santé
+chirurgien,blessure,0.95,santé
+épilepsie,neurotransmetteurs,0.92,santé
+téléconsultation,vidéo,0.91,santé
+urgences médicales,priorité,0.94,santé
+immunité adaptative,lymphocytes,0.93,santé
+acupuncture,points,0.95,santé
+phytothérapie,remèdes naturels,0.92,santé
+naturopathie,santé holistique,0.91,santé
+médecine nucléaire,scintigraphie,0.94,santé
+radiothérapie,tumeurs,0.93,santé
+santé communautaire,initiatives,0.95,santé
+médecine esthétique,bien-être,0.92,santé
+hygiène de vie,prévention,0.91,santé
+alimentation saine,équilibre,0.94,santé
+microbiologie,bactéries,0.93,santé
+pandémie,contagion,0.95,santé
+médicaments,génériques,0.92,santé
+vaccination de masse,couverture,0.91,santé
+anesthésiste,bloc opératoire,0.94,santé
+médecine régénérative,cellules souches,0.93,santé
+
+# Santé(similarités basses)
+
+médecine,fiction audio,0.22,santé
+infirmière,illustration scientifique,0.21,santé
+chirurgie,danse contemporaine,0.20,santé
+hôpital,graphisme contemporain,0.19,santé
+pharmacie,installation artistique,0.24,santé
+diagnostic,poésie symboliste,0.23,santé
+médecin,ressources numériques,0.22,santé
+vaccin,livre audio,0.21,santé
+épidémie,projection numérique,0.20,santé
+maladie,tableau noir,0.19,santé
+soins intensifs,concepts graphiques,0.24,santé
+santé mentale,fiction numérique,0.23,santé
+physiothérapie,sculpture contemporaine,0.22,santé
+cardiologie,médaille,0.21,santé
+oncologie,culture digitale,0.20,santé
+dentiste,arts visuels,0.19,santé
+ophtalmologie,croquis,0.24,santé
+nutrition,supports visuels,0.23,santé
+pédiatrie,graphisme,0.22,santé
+gériatrie,poésie contemporaine,0.21,santé
+anesthésie,événements culturels,0.20,santé
+radiologie,fiction historique,0.19,santé
+biologie,concepts abstraits,0.24,santé
+épidémiologie,atelier technique,0.23,santé
+dermatologie,danse folklorique,0.22,santé
+orthopédie,modélisation 3D,0.21,santé
+psychothérapie,illustration artistique,0.20,santé
+allergie,histoire orale,0.19,santé
+vaccination,paysages numériques,0.24,santé
+réanimation,évolutions technologiques,0.23,santé
+neurochirurgie,photographie artistique,0.22,santé
+psychologie,galerie d’art,0.21,santé
+toxicologie,logistique moderne,0.20,santé
+endocrinologie,musique contemporaine,0.19,santé
+médecine générale,conservatoire,0.24,santé
+kinésithérapie,biologie marine,0.23,santé
+pneumologie,concepts graphiques,0.22,santé
+pathologie,danse classique,0.21,santé
+chirurgie plastique,supports numériques,0.20,santé
+immunologie,installation artistique,0.19,santé
+virologie,culture musicale,0.24,santé
+orthodontie,écriture contemporaine,0.23,santé
+parasitologie,fiction littéraire,0.22,santé
+hématologie,atelier d’art,0.21,santé
+médecine interne,symboles culturels,0.20,santé
+hygiène,logistique historique,0.19,santé
+nutritionniste,projets éducatifs,0.24,santé
+
+# Religions et spiritualité
+
+christianisme,bible,0.95,religion
+islam,coran,0.94,religion
+judaïsme,torah,0.93,religion
+hindouisme,vedas,0.92,religion
+bouddhisme,sutras,0.91,religion
+prières,rituels,0.94,religion
+temple,sanctuaire,0.93,religion
+mosquée,minaret,0.95,religion
+synagogue,menorah,0.92,religion
+église,cathédrale,0.91,religion
+karma,réincarnation,0.94,religion
+nirvana,illumination,0.93,religion
+pape,vatican,0.95,religion
+prophète,révélation,0.92,religion
+sainteté,sacralité,0.91,religion
+sacrifice,offrande,0.94,religion
+croyance,foi,0.93,religion
+spiritualité,méditation,0.95,religion
+culte,adoration,0.92,religion
+zen,paix intérieure,0.91,religion
+shinto,kami,0.94,religion
+rituel,cérémonie,0.93,religion
+mythologie,légende,0.95,religion
+divinité,culte,0.92,religion
+sagesse,enseignement,0.91,religion
+jeûne,purification,0.94,religion
+pèlerinage,lieu saint,0.93,religion
+commandements,morale,0.95,religion
+prédication,sermon,0.92,religion
+âme,salut,0.91,religion
+ascèse,discipline,0.94,religion
+rites,traditions,0.93,religion
+soufisme,mysticisme,0.95,religion
+yoga,équilibre,0.92,religion
+chant spirituel,mantra,0.91,religion
+cosmologie,création,0.94,religion
+prophétie,avenir,0.93,religion
+félicité,sérénité,0.95,religion
+prêtres,liturgie,0.92,religion
+âme,croyance,0.91,religion
+rites funéraires,au-delà,0.94,religion
+saint,canonisation,0.93,religion
+dharma,devoir,0.95,religion
+mantra,répétition,0.92,religion
+pardon,rédemption,0.91,religion
+initiation,éveil,0.94,religion
+charité,générosité,0.93,religion
+paradis,enfer,0.95,religion
+cosmos,inconnu,0.92,religion
+absolution,repentir,0.91,religion
+oracle,prédiction,0.94,religion
+totem,symbolisme,0.93,religion
+déité,divin,0.95,religion
+altruisme,compassion,0.92,religion
+rites de passage,étapes,0.91,religion
+éthique,religion,0.94,religion
+mystère,sacré,0.93,religion
+ascension,élévation,0.95,religion
+panthéon,dieux,0.92,religion
+extase,transcendance,0.91,religion
+enseignement spirituel,sagesse,0.94,religion
+féminin sacré,maternité,0.93,religion
+méditation,mindfulness,0.95,religion
+liturgie,psaumes,0.92,religion
+oracle,divination,0.91,religion
+shamanisme,nature,0.94,religion
+aumône,partage,0.93,religion
+élévation,méditation,0.95,religion
+transcendance,conscience,0.92,religion
+aum,son sacré,0.91,religion
+prières collectives,communion,0.94,religion
+temple grec,architecture,0.93,religion
+icône,vénération,0.95,religion
+dogme,principes,0.92,religion
+martyr,sacrifice,0.91,religion
+clairvoyance,intuition,0.94,religion
+illumination,clarté,0.93,religion
+universalisme,harmonie,0.95,religion
+textes sacrés,enseignement,0.92,religion
+royaume des cieux,prophéties,0.91,religion
+vœux,retrait,0.94,religion
+pentecôte,esprit saint,0.93,religion
+orthodoxie,tradition,0.95,religion
+polythéisme,croyances,0.92,religion
+prosélytisme,conviction,0.91,religion
+incarnation,présence,0.94,religion
+vision cosmique,univers,0.93,religion
+
+# Religions et spiritualité(similarités basses)
+
+christianisme,danse contemporaine,0.22,religion
+islam,graphisme numérique,0.21,religion
+judaïsme,installation artistique,0.20,religion
+hindouisme,poésie contemporaine,0.19,religion
+bouddhisme,tableau noir,0.24,religion
+prières,fiction audio,0.23,religion
+temple,ressources numériques,0.22,religion
+mosquée,illustration scientifique,0.21,religion
+synagogue,concepts graphiques,0.20,religion
+église,modélisation 3D,0.19,religion
+karma,fiction littéraire,0.24,religion
+nirvana,culture digitale,0.23,religion
+pape,atelier technique,0.22,religion
+prophète,écritures modernes,0.21,religion
+sainteté,paysages numériques,0.20,religion
+sacrifice,événements artistiques,0.19,religion
+croyance,supports visuels,0.24,religion
+spiritualité,biologie marine,0.23,religion
+culte,danse folklorique,0.22,religion
+zen,arts visuels,0.21,religion
+shinto,illustration artistique,0.20,religion
+rituel,musique contemporaine,0.19,religion
+mythologie,sculpture contemporaine,0.24,religion
+divinité,logistique moderne,0.23,religion
+sagesse,histoire orale,0.22,religion
+jeûne,graphisme contemporain,0.21,religion
+pèlerinage,projection numérique,0.20,religion
+commandements,croquis,0.19,religion
+prédication,concepts abstraits,0.24,religion
+âme,fiction numérique,0.23,religion
+ascèse,supports numériques,0.22,religion
+rites,littérature moderne,0.21,religion
+soufisme,tableaux interactifs,0.20,religion
+yoga,danse classique,0.19,religion
+chant spirituel,projets éducatifs,0.24,religion
+cosmologie,galerie d’art,0.23,religion
+prophétie,logistique,0.22,religion
+félicité,culture musicale,0.21,religion
+prêtres,illustration moderne,0.20,religion
+rites funéraires,concepts technologiques,0.19,religion
+saint,fiction historique,0.24,religion
+dharma,évolutions culturelles,0.23,religion
+mantra,arts graphiques,0.22,religion
+pardon,conservatoire,0.21,religion
+initiation,chorégraphie,0.20,religion
+charité,écriture numérique,0.19,religion
+paradis,installation artistique,0.24,religion
+cosmos,fiction scientifique,0.23,religion
+
+# Militaire
+
+armée,soldat,0.95,militaire
+bataille,conflit,0.94,militaire
+guerre,front,0.93,militaire
+stratégie,tactique,0.92,militaire
+général,commandement,0.91,militaire
+armement,munitions,0.95,militaire
+caserne,entraînement,0.94,militaire
+marine,navire,0.93,militaire
+aviation,avion,0.92,militaire
+infanterie,terrain,0.91,militaire
+char,blindé,0.94,militaire
+artillerie,canons,0.93,militaire
+officier,commandant,0.95,militaire
+mission,objectif,0.92,militaire
+base militaire,logistique,0.91,militaire
+soldat,discipline,0.94,militaire
+drone,surveillance,0.93,militaire
+missile,défense,0.95,militaire
+opérations spéciales,élite,0.92,militaire
+hélicoptère,transport,0.91,militaire
+patrouille,zone,0.94,militaire
+quartier général,coordination,0.93,militaire
+vétéran,expérience,0.95,militaire
+armée de l'air,escadrille,0.92,militaire
+marine nationale,flotte,0.91,militaire
+conflit armé,alliances,0.94,militaire
+blocus,encerclement,0.93,militaire
+armes chimiques,interdiction,0.95,militaire
+traité de paix,négociation,0.92,militaire
+camp militaire,abri,0.91,militaire
+uniforme,médaille,0.94,militaire
+guérilla,terrain,0.93,militaire
+exercice militaire,simulation,0.95,militaire
+flotte navale,stratégie,0.92,militaire
+armée terrestre,défense,0.91,militaire
+porte-avions,escorte,0.94,militaire
+radar,détection,0.93,militaire
+recrutement,service,0.95,militaire
+force spéciale,intervention,0.92,militaire
+armistice,cessez-le-feu,0.91,militaire
+fortification,protection,0.94,militaire
+munitions,arsenal,0.93,militaire
+missiles balistiques,portée,0.95,militaire
+bases navales,sécurité,0.92,militaire
+fusil,armes,0.91,militaire
+tactique militaire,déploiement,0.94,militaire
+espionnage,infiltration,0.93,militaire
+alliés,coopération,0.95,militaire
+cavalerie,cheval,0.92,militaire
+force aérienne,assaut,0.91,militaire
+tensions militaires,escalade,0.94,militaire
+zones de conflit,régions,0.93,militaire
+dissuasion nucléaire,arsenal,0.95,militaire
+attaque,position,0.92,militaire
+parachutiste,aéroport,0.91,militaire
+garde nationale,sécurité,0.94,militaire
+mines terrestres,risques,0.93,militaire
+brigade,division,0.95,militaire
+opérations de maintien de la paix,ONU,0.92,militaire
+soldat d'élite,formation,0.91,militaire
+forces armées,équipement,0.94,militaire
+guerre froide,tensions,0.93,militaire
+siège,blocus,0.95,militaire
+campagne militaire,victoire,0.92,militaire
+missile intercontinental,puissance,0.91,militaire
+conflit mondial,diplomatie,0.94,militaire
+arsenal militaire,inventaire,0.93,militaire
+drones de combat,attaque,0.95,militaire
+stratégie navale,océan,0.92,militaire
+fusée,système,0.91,militaire
+bases aériennes,opérations,0.94,militaire
+commandement militaire,décision,0.93,militaire
+forces terrestres,mobilisation,0.95,militaire
+armes biologiques,dangers,0.92,militaire
+hélicoptère de combat,intervention,0.91,militaire
+brigade blindée,chars,0.94,militaire
+sous-marin,dissuasion,0.93,militaire
+munitions de précision,cibles,0.95,militaire
+guerre cybernétique,réseaux,0.92,militaire
+espion,opérations,0.91,militaire
+forces de défense,préparation,0.94,militaire
+zones démilitarisées,frontière,0.93,militaire
+chars d'assaut,blindage,0.95,militaire
+missiles guidés,cibles,0.92,militaire
+défense anti-aérienne,menace,0.91,militaire
+
+# Militaire(similarités basses)
+
+armée,graphisme contemporain,0.22,militaire
+soldat,illustration scientifique,0.21,militaire
+guerre,danse contemporaine,0.20,militaire
+bataille,poésie symboliste,0.19,militaire
+général,tableau noir,0.24,militaire
+stratégie,fiction audio,0.23,militaire
+marine militaire,ressources numériques,0.22,militaire
+aviation,concepts graphiques,0.21,militaire
+blindé,modélisation 3D,0.20,militaire
+artillerie,fiction littéraire,0.19,militaire
+infanterie,culture digitale,0.24,militaire
+hélicoptère de combat,atelier technique,0.23,militaire
+chars,illustration artistique,0.22,militaire
+missile,évolutions technologiques,0.21,militaire
+uniforme,paysages numériques,0.20,militaire
+camp militaire,événements artistiques,0.19,militaire
+officier,sculpture contemporaine,0.24,militaire
+espionnage,histoire orale,0.23,militaire
+base militaire,graphisme contemporain,0.22,militaire
+missile balistique,arts visuels,0.21,militaire
+défense nationale,illustration scientifique,0.20,militaire
+patrouille,danse classique,0.19,militaire
+armée de terre,installation artistique,0.24,militaire
+marine,fiction historique,0.23,militaire
+aéronavale,projets éducatifs,0.22,militaire
+forces spéciales,croquis,0.21,militaire
+tactique militaire,concepts abstraits,0.20,militaire
+guerre froide,danse folklorique,0.19,militaire
+opérations stratégiques,projection numérique,0.24,militaire
+campagne militaire,arts graphiques,0.23,militaire
+fortification,conservatoire,0.22,militaire
+armement,chorégraphie,0.21,militaire
+brigade,écriture numérique,0.20,militaire
+combats,installation artistique,0.19,militaire
+hélicoptère,fiction scientifique,0.24,militaire
+camp d’entraînement,fiction numérique,0.23,militaire
+munitions,concepts graphiques,0.22,militaire
+logistique militaire,logistique générale,0.21,militaire
+convoi,poésie contemporaine,0.20,militaire
+alliances stratégiques,arts graphiques,0.19,militaire
+recrutement,musique contemporaine,0.24,militaire
+formation,illustration moderne,0.23,militaire
+marine nationale,histoire visuelle,0.22,militaire
+platoon,fiction militaire,0.21,militaire
+réserviste,projets numériques,0.20,militaire
+opérations de guerre,tableaux interactifs,0.19,militaire
+armurerie,biologie marine,0.24,militaire
+escadron,aérospatial,0.23,militaire
+sous-marin,symbole numérique,0.22,militaire
+
+# Écologie
+
+biodiversité,écosystème,0.95,écologie
+recyclage,déchets,0.94,écologie
+énergies renouvelables,éolienne,0.93,écologie
+pollution,contamination,0.92,écologie
+forêt tropicale,arbres,0.91,écologie
+effet de serre,réchauffement climatique,0.94,écologie
+agriculture biologique,sols,0.93,écologie
+déforestation,perte d’habitats,0.95,écologie
+océan,acidification,0.92,écologie
+faune,protection,0.91,écologie
+énergie solaire,panneaux photovoltaïques,0.94,écologie
+économie circulaire,durabilité,0.93,écologie
+empreinte carbone,réduction,0.95,écologie
+changement climatique,températures,0.92,écologie
+zéro déchet,compostage,0.91,écologie
+développement durable,ressources,0.94,écologie
+réduction des émissions,transport public,0.93,écologie
+énergie éolienne,turbines,0.95,écologie
+écosystème marin,corail,0.92,écologie
+perte de biodiversité,extinction,0.91,écologie
+réduction des plastiques,bioplastique,0.94,écologie
+conservation,réserves naturelles,0.93,écologie
+énergie hydraulique,barrages,0.95,écologie
+pesticides,pollution des sols,0.92,écologie
+réhabilitation environnementale,restauration,0.91,écologie
+changement d’habitat,migration animale,0.94,écologie
+énergie géothermique,chaleur,0.93,écologie
+gestion de l’eau,irrigation,0.95,écologie
+protection des espèces,écorégions,0.92,écologie
+effet de serre,gaz à effet de serre,0.91,écologie
+pollution sonore,transport urbain,0.94,écologie
+agriculture durable,rotation des cultures,0.93,écologie
+eau potable,traitement,0.95,écologie
+bilan carbone,neutralité carbone,0.92,écologie
+environnement,écosystèmes,0.91,écologie
+réduction des déchets,méthanisation,0.94,écologie
+panneaux solaires,efficacité énergétique,0.93,écologie
+tourbières,stockage de carbone,0.95,écologie
+reforestation,plantation d’arbres,0.92,écologie
+santé environnementale,qualité de l’air,0.91,écologie
+traitement des eaux usées,stations d’épuration,0.94,écologie
+zones humides,filtration naturelle,0.93,écologie
+préservation,parcs nationaux,0.95,écologie
+écotourisme,développement durable,0.92,écologie
+gestion des déchets,collecte sélective,0.91,écologie
+impact environnemental,analyse,0.94,écologie
+éducation environnementale,sensibilisation,0.93,écologie
+gestion forestière,équilibre,0.95,écologie
+érosion des sols,réhabilitation,0.92,écologie
+changement climatique,fonte des glaces,0.91,écologie
+énergie verte,alternatives,0.94,écologie
+pollution atmosphérique,particules fines,0.93,écologie
+systèmes agroforestiers,permaculture,0.95,écologie
+biodiversité marine,protection,0.92,écologie
+ressources naturelles,gestion durable,0.91,écologie
+réduction de l’empreinte,transports écologiques,0.94,écologie
+environnementalisme,engagement,0.93,écologie
+océanographie,changements climatiques,0.95,écologie
+sols,compost organique,0.92,écologie
+élevage durable,pratiques respectueuses,0.91,écologie
+habitats naturels,protection,0.94,écologie
+gestion des ressources,partage,0.93,écologie
+zones protégées,écorégions,0.95,écologie
+eau douce,rivières,0.92,écologie
+qualité de l’air,polluants,0.91,écologie
+barrages hydroélectriques,énergie propre,0.94,écologie
+biodégradation,processus naturels,0.93,écologie
+écoconstruction,matériaux durables,0.95,écologie
+agriculture urbaine,toits verts,0.92,écologie
+écosystèmes tropicaux,diversité,0.91,écologie
+alternatives écologiques,solutions,0.94,écologie
+gestion climatique,régulation,0.93,écologie
+recyclage avancé,innovations,0.95,écologie
+habitat écologique,construction,0.92,écologie
+écobilan,développement durable,0.91,écologie
+climat,adaptation,0.94,écologie
+forêts primaires,biodiversité,0.93,écologie
+coraux,réserves marines,0.95,écologie
+plantes médicinales,écosystèmes,0.92,écologie
+engrais naturels,agriculture,0.91,écologie
+infrastructures vertes,urbanisme,0.94,écologie
+érosion côtière,solutions naturelles,0.93,écologie
+agroécologie,systèmes alimentaires,0.95,écologie
+zones arides,réhabilitation,0.92,écologie
+empreinte hydrique,consommation,0.91,écologie
+
+# Écologie(similarités basses)
+
+biodiversité,danse contemporaine,0.22,écologie
+recyclage,graphisme numérique,0.21,écologie
+énergies renouvelables,installation artistique,0.20,écologie
+pollution,poésie symboliste,0.19,écologie
+forêt tropicale,fiction audio,0.24,écologie
+effet de serre,tableau noir,0.23,écologie
+agriculture biologique,illustration scientifique,0.22,écologie
+déforestation,concepts graphiques,0.21,écologie
+océan,modélisation 3D,0.20,écologie
+faune,fiction littéraire,0.19,écologie
+énergie solaire,culture digitale,0.24,écologie
+économie circulaire,atelier technique,0.23,écologie
+empreinte carbone,évolutions technologiques,0.22,écologie
+changement climatique,paysages numériques,0.21,écologie
+zéro déchet,arts visuels,0.20,écologie
+développement durable,histoire orale,0.19,écologie
+réduction des émissions,graphisme contemporain,0.24,écologie
+énergie éolienne,fiction historique,0.23,écologie
+écosystème marin,croquis,0.22,écologie
+perte de biodiversité,concepts abstraits,0.21,écologie
+réduction des plastiques,danse folklorique,0.20,écologie
+conservation,projection numérique,0.19,écologie
+énergie hydraulique,arts graphiques,0.24,écologie
+pesticides,conservatoire,0.23,écologie
+réhabilitation environnementale,chorégraphie,0.22,écologie
+changement d’habitat,écriture numérique,0.21,écologie
+énergie géothermique,installation artistique,0.20,écologie
+gestion de l’eau,fiction scientifique,0.19,écologie
+protection des espèces,fiction numérique,0.24,écologie
+effet de serre,concepts graphiques,0.23,écologie
+pollution sonore,poésie contemporaine,0.22,écologie
+agriculture durable,tableaux interactifs,0.21,écologie
+eau potable,biologie marine,0.20,écologie
+bilan carbone,musique contemporaine,0.19,écologie
+environnement,illustration moderne,0.24,écologie
+réduction des déchets,évolutions culturelles,0.23,écologie
+panneaux solaires,arts visuels,0.22,écologie
+tourbières,sculpture contemporaine,0.21,écologie
+reforestation,projets numériques,0.20,écologie
+santé environnementale,fiction militaire,0.19,écologie
+traitement des eaux usées,projets éducatifs,0.24,écologie
+zones humides,fiction culturelle,0.23,écologie
+préservation,concepts technologiques,0.22,écologie
+écotourisme,fiction littéraire,0.21,écologie
+gestion des déchets,logistique moderne,0.20,écologie
+impact environnemental,histoire visuelle,0.19,écologie
+éducation environnementale,fiction numérique,0.24,écologie
+gestion forestière,fiction scientifique,0.23,écologie
+érosion des sols,concepts abstraits,0.22,écologie
+
+# Astronomie
+
+étoile,constellation,0.95,astronomie
+planète,orbite,0.94,astronomie
+galaxie,voie lactée,0.93,astronomie
+lune,cratères,0.92,astronomie
+soleil,fusion nucléaire,0.91,astronomie
+trou noir,gravité,0.94,astronomie
+système solaire,planètes,0.93,astronomie
+comète,queue,0.95,astronomie
+satellite,orbite,0.92,astronomie
+telescope,observation,0.91,astronomie
+astéroïde,impact,0.94,astronomie
+nébuleuse,nuage,0.93,astronomie
+supernova,explosion,0.95,astronomie
+cosmos,univers,0.92,astronomie
+pulsar,rotation,0.91,astronomie
+quasar,luminosité,0.94,astronomie
+sphère céleste,étoiles,0.93,astronomie
+équinoxe,solstice,0.95,astronomie
+axe de rotation,inclinaison,0.92,astronomie
+orbite elliptique,régularité,0.91,astronomie
+étoile filante,météore,0.94,astronomie
+horizon des événements,gravité extrême,0.93,astronomie
+matière noire,gravité,0.95,astronomie
+énergie sombre,expansion,0.92,astronomie
+observatoire,ciel,0.91,astronomie
+exploration spatiale,vaisseaux,0.94,astronomie
+anneaux de saturne,glace,0.93,astronomie
+planète naine,pluton,0.95,astronomie
+big bang,création,0.92,astronomie
+champ gravitationnel,force,0.91,astronomie
+mars,rover,0.94,astronomie
+lune de jupiter,europa,0.93,astronomie
+écliptique,inclinaison,0.95,astronomie
+voile cosmique,poussière,0.92,astronomie
+amas stellaire,étoiles,0.91,astronomie
+trou blanc,antimatière,0.94,astronomie
+étoile neutron,masse,0.93,astronomie
+naine blanche,évolution,0.95,astronomie
+exoplanète,détection,0.92,astronomie
+météorite,atmosphère,0.91,astronomie
+géante gazeuse,saturne,0.94,astronomie
+naine brune,transition,0.93,astronomie
+voie lactée,galaxie spirale,0.95,astronomie
+rotation axiale,jour,0.92,astronomie
+galaxie elliptique,évolution,0.91,astronomie
+taches solaires,activité,0.94,astronomie
+tempête solaire,éruption,0.93,astronomie
+jour sidéral,temps,0.95,astronomie
+cosmologie,structures,0.92,astronomie
+unités astronomiques,distance,0.91,astronomie
+orbite circumstellaire,étoile,0.94,astronomie
+observations radio,ondes,0.93,astronomie
+espace-temps,relativité,0.95,astronomie
+ondes gravitationnelles,détection,0.92,astronomie
+mission lunaire,apollo,0.91,astronomie
+télescope spatial,hubble,0.94,astronomie
+phénomène astronomique,éclipse,0.93,astronomie
+région HII,hydrogène,0.95,astronomie
+rayons cosmiques,particules,0.92,astronomie
+parallaxe,mesure,0.91,astronomie
+magnitude apparente,luminosité,0.94,astronomie
+orbite géostationnaire,satellite,0.93,astronomie
+observatoire astronomique,technologie,0.95,astronomie
+carte stellaire,constellation,0.92,astronomie
+lunette astronomique,observation,0.91,astronomie
+astrométrie,positions,0.94,astronomie
+cosmogonie,création,0.93,astronomie
+système binaire,étoiles,0.95,astronomie
+formation stellaire,nuages,0.92,astronomie
+galaxie active,quasar,0.91,astronomie
+lune,phases,0.94,astronomie
+impact météoritique,formation,0.93,astronomie
+aurora boréale,ionisation,0.95,astronomie
+analyse spectrale,composition,0.92,astronomie
+temps sidéral,rotation,0.91,astronomie
+zodiaque,astrologie,0.94,astronomie
+planète tellurique,composition,0.93,astronomie
+orbite héliocentrique,soleil,0.95,astronomie
+ciel profond,observation,0.92,astronomie
+photométrie,luminosité,0.91,astronomie
+distance interstellaire,mesure,0.94,astronomie
+champ magnétique,protection,0.93,astronomie
+matière baryonique,composition,0.95,astronomie
+voile interstellaire,poussière,0.92,astronomie
+espace intergalactique,structure,0.91,astronomie
+saturne,titan,0.94,astronomie
+étoile massive,cycle,0.93,astronomie
+
+# Astronomie(similarités basses)
+
+étoile,illustration scientifique,0.22,astronomie
+planète,danse contemporaine,0.21,astronomie
+galaxie,poésie symboliste,0.20,astronomie
+lune,tableau noir,0.19,astronomie
+soleil,fiction audio,0.24,astronomie
+trou noir,concepts graphiques,0.23,astronomie
+système solaire,culture digitale,0.22,astronomie
+comète,installation artistique,0.21,astronomie
+satellite,modélisation 3D,0.20,astronomie
+telescope,graphisme contemporain,0.19,astronomie
+astéroïde,écritures modernes,0.24,astronomie
+nébuleuse,projection numérique,0.23,astronomie
+supernova,fiction historique,0.22,astronomie
+cosmos,ressources numériques,0.21,astronomie
+pulsar,arts visuels,0.20,astronomie
+quasar,poésie contemporaine,0.19,astronomie
+sphère céleste,fiction littéraire,0.24,astronomie
+équinoxe,projets numériques,0.23,astronomie
+axe de rotation,sculpture contemporaine,0.22,astronomie
+orbite elliptique,danse folklorique,0.21,astronomie
+étoile filante,croquis,0.20,astronomie
+horizon des événements,tableaux interactifs,0.19,astronomie
+matière noire,fiction scientifique,0.24,astronomie
+énergie sombre,logistique moderne,0.23,astronomie
+observatoire,illustration moderne,0.22,astronomie
+exploration spatiale,musique contemporaine,0.21,astronomie
+anneaux de saturne,projets éducatifs,0.20,astronomie
+planète naine,histoire orale,0.19,astronomie
+big bang,arts graphiques,0.24,astronomie
+champ gravitationnel,danse classique,0.23,astronomie
+mars,concepts abstraits,0.22,astronomie
+lune de jupiter,évolutions culturelles,0.21,astronomie
+écliptique,culture musicale,0.20,astronomie
+voile cosmique,arts numériques,0.19,astronomie
+amas stellaire,fiction audio,0.24,astronomie
+trou blanc,illustration numérique,0.23,astronomie
+étoile neutron,tableaux,0.22,astronomie
+naine blanche,danse classique,0.21,astronomie
+exoplanète,chorégraphie,0.20,astronomie
+météorite,supports numériques,0.19,astronomie
+géante gazeuse,arts plastiques,0.24,astronomie
+naine brune,écriture symbolique,0.23,astronomie
+voie lactée,histoire visuelle,0.22,astronomie
+rotation axiale,fiction littéraire,0.21,astronomie
+galaxie elliptique,concepts éducatifs,0.20,astronomie
+taches solaires,fiction culturelle,0.19,astronomie
+tempête solaire,illustration graphique,0.24,astronomie
+jour sidéral,graphisme interactif,0.23,astronomie
+
+# Psychologie
+
+émotion,sentiment,0.95,psychologie
+cognition,perception,0.94,psychologie
+stress,anxiété,0.93,psychologie
+comportement,attitude,0.92,psychologie
+mémoire,souvenir,0.91,psychologie
+thérapie,soin,0.94,psychologie
+psychanalyse,inconscient,0.93,psychologie
+motivation,objectif,0.95,psychologie
+personnalité,traits,0.92,psychologie
+empathie,compassion,0.91,psychologie
+apprentissage,mémorisation,0.94,psychologie
+intelligence,raisonnement,0.93,psychologie
+perception,sensation,0.95,psychologie
+stress chronique,burnout,0.92,psychologie
+résilience,adaptation,0.91,psychologie
+psychopathologie,troubles,0.94,psychologie
+émotion positive,joie,0.93,psychologie
+développement personnel,croissance,0.95,psychologie
+autisme,neurodiversité,0.92,psychologie
+psychologie sociale,interactions,0.91,psychologie
+mécanismes de défense,déni,0.94,psychologie
+mindfulness,conscience,0.93,psychologie
+dépendance,addiction,0.95,psychologie
+psychologue,consultation,0.92,psychologie
+trauma,réparation,0.91,psychologie
+psychothérapie,relation,0.94,psychologie
+schizophrénie,psychose,0.93,psychologie
+motricité,coordination,0.95,psychologie
+psychologie cognitive,attention,0.92,psychologie
+peur,phobie,0.91,psychologie
+confiance en soi,estime de soi,0.94,psychologie
+stress post-traumatique,symptômes,0.93,psychologie
+neuropsychologie,cerveau,0.95,psychologie
+fatigue mentale,épuisement,0.92,psychologie
+rêves,interprétation,0.91,psychologie
+psychologie clinique,diagnostic,0.94,psychologie
+affirmation de soi,assertivité,0.93,psychologie
+processus mentaux,analyse,0.95,psychologie
+humeur,dépression,0.92,psychologie
+intelligence émotionnelle,régulation,0.91,psychologie
+gestion du stress,techniques,0.94,psychologie
+auto-évaluation,rétrospection,0.93,psychologie
+adaptabilité,flexibilité,0.95,psychologie
+biais cognitif,jugement,0.92,psychologie
+psychologie positive,bien-être,0.91,psychologie
+dissociation,traumatisme,0.94,psychologie
+relation d’aide,écoute,0.93,psychologie
+psychologie analytique,archetypes,0.95,psychologie
+thérapie comportementale,exposition,0.92,psychologie
+psychiatre,traitement,0.91,psychologie
+décision,satisfaction,0.94,psychologie
+médias sociaux,influence,0.93,psychologie
+identité,culture,0.95,psychologie
+développement psychologique,étapes,0.92,psychologie
+isolement,sentiment,0.91,psychologie
+mécanisme d’adaptation,stress,0.94,psychologie
+conscience de soi,résilience,0.93,psychologie
+psychologie expérimentale,méthodologie,0.95,psychologie
+émotion primaire,peur,0.92,psychologie
+attention sélective,focalisation,0.91,psychologie
+gestalt,perception,0.94,psychologie
+motivation intrinsèque,curiosité,0.93,psychologie
+émotions secondaires,culpabilité,0.95,psychologie
+psychologie comportementale,habitudes,0.92,psychologie
+feedback,correction,0.91,psychologie
+méditation pleine conscience,focus,0.94,psychologie
+approche humaniste,empathie,0.93,psychologie
+psychologie interculturelle,diversité,0.95,psychologie
+pensée critique,analyse,0.92,psychologie
+stratégies d’adaptation,coping,0.91,psychologie
+congruence,alignement,0.94,psychologie
+perception sociale,biais,0.93,psychologie
+émotion complexe,envie,0.95,psychologie
+association libre,créativité,0.92,psychologie
+désir,besoin,0.91,psychologie
+groupes sociaux,influence,0.94,psychologie
+état de flow,immersion,0.93,psychologie
+psychométrie,tests,0.95,psychologie
+psychoéducation,prévention,0.92,psychologie
+personnalité type A,compétition,0.91,psychologie
+stress aigu,réponse,0.94,psychologie
+psychologie éducative,apprentissage,0.93,psychologie
+compétences sociales,relation,0.95,psychologie
+optimisme,persévérance,0.92,psychologie
+attachement,lien,0.91,psychologie
+recherche psychologique,innovation,0.94,psychologie
+introversion,extraversion,0.93,psychologie
+analyse comportementale,profiling,0.95,psychologie
+émotion,expression,0.92,psychologie
+habitudes,croyances,0.91,psychologie
+
+# Psychologie(similarités basses)
+
+émotion,danse contemporaine,0.22,psychologie
+cognition,illustration scientifique,0.21,psychologie
+stress,installation artistique,0.20,psychologie
+comportement,poésie contemporaine,0.19,psychologie
+mémoire,tableau noir,0.24,psychologie
+thérapie,fiction audio,0.23,psychologie
+psychanalyse,concepts graphiques,0.22,psychologie
+motivation,graphisme contemporain,0.21,psychologie
+personnalité,culture digitale,0.20,psychologie
+empathie,fiction littéraire,0.19,psychologie
+apprentissage,arts visuels,0.24,psychologie
+intelligence,projection numérique,0.23,psychologie
+perception,illustration moderne,0.22,psychologie
+stress chronique,projets éducatifs,0.21,psychologie
+résilience,arts graphiques,0.20,psychologie
+psychopathologie,installation artistique,0.19,psychologie
+émotion positive,danse folklorique,0.24,psychologie
+développement personnel,modélisation 3D,0.23,psychologie
+autisme,fiction historique,0.22,psychologie
+psychologie sociale,projets numériques,0.21,psychologie
+mécanismes de défense,sculpture contemporaine,0.20,psychologie
+mindfulness,croquis,0.19,psychologie
+dépendance,arts plastiques,0.24,psychologie
+psychologue,fiction scientifique,0.23,psychologie
+trauma,histoire orale,0.22,psychologie
+psychothérapie,musique contemporaine,0.21,psychologie
+schizophrénie,écritures modernes,0.20,psychologie
+motricité,chorégraphie,0.19,psychologie
+psychologie cognitive,tableaux interactifs,0.24,psychologie
+peur,poésie symboliste,0.23,psychologie
+confiance en soi,concepts abstraits,0.22,psychologie
+stress post-traumatique,arts numériques,0.21,psychologie
+neuropsychologie,illustration numérique,0.20,psychologie
+fatigue mentale,concepts technologiques,0.19,psychologie
+rêves,fiction culturelle,0.24,psychologie
+psychologie clinique,fiction militaire,0.23,psychologie
+affirmation de soi,illustration artistique,0.22,psychologie
+processus mentaux,évolutions culturelles,0.21,psychologie
+humeur,écriture symbolique,0.20,psychologie
+intelligence émotionnelle,histoire visuelle,0.19,psychologie
+gestion du stress,concepts graphiques,0.24,psychologie
+auto-évaluation,danse classique,0.23,psychologie
+adaptabilité,projets historiques,0.22,psychologie
+biais cognitif,fiction numérique,0.21,psychologie
+psychologie positive,illustration éducative,0.20,psychologie
+dissociation,arts visuels,0.19,psychologie
+relation d’aide,logistique moderne,0.24,psychologie
+psychologie analytique,écritures contemporaines,0.23,psychologie
+thérapie comportementale,fiction philosophique,0.22,psychologie
+psychiatre,graphisme interactif,0.21,psychologie
+
+# Gastronomie
+
+recette,ingrédient,0.95,gastronomie
+chef,cuisine,0.94,gastronomie
+plat,menu,0.93,gastronomie
+restaurant,gastronomie,0.92,gastronomie
+saveur,arôme,0.91,gastronomie
+épices,assaisonnement,0.94,gastronomie
+pain,boulangerie,0.93,gastronomie
+chocolat,pâtisserie,0.95,gastronomie
+café,espresso,0.92,gastronomie
+fromage,vignoble,0.91,gastronomie
+vin,dégustation,0.94,gastronomie
+viande,grillade,0.93,gastronomie
+légume,poêlée,0.95,gastronomie
+dessert,gâteau,0.92,gastronomie
+fruits,tarte,0.91,gastronomie
+poisson,fruits de mer,0.94,gastronomie
+huile,dressage,0.93,gastronomie
+pâte,pizza,0.95,gastronomie
+céréales,pain,0.92,gastronomie
+cocktail,mélange,0.91,gastronomie
+soupe,bouillon,0.94,gastronomie
+entrée,salade,0.93,gastronomie
+fromage,charcuterie,0.95,gastronomie
+assiette,service,0.92,gastronomie
+épicerie,fine,0.91,gastronomie
+technique,découpe,0.94,gastronomie
+dégustation,arômes,0.93,gastronomie
+crème,glace,0.95,gastronomie
+riz,sushis,0.92,gastronomie
+sauce,liant,0.91,gastronomie
+couteau,émincer,0.94,gastronomie
+four,cuisson,0.93,gastronomie
+poêle,sauter,0.95,gastronomie
+épluchage,légumes,0.92,gastronomie
+fermentation,fromage,0.91,gastronomie
+macération,liqueur,0.94,gastronomie
+caramel,sucre,0.93,gastronomie
+cuillère,dégustation,0.95,gastronomie
+tartare,cru,0.92,gastronomie
+friture,huile,0.91,gastronomie
+herbes,aromates,0.94,gastronomie
+lait,beurre,0.93,gastronomie
+œuf,omelette,0.95,gastronomie
+champignon,forestier,0.92,gastronomie
+crustacés,coquillages,0.91,gastronomie
+glaçage,dessert,0.94,gastronomie
+pâte feuilletée,quiche,0.93,gastronomie
+rôti,cocotte,0.95,gastronomie
+filet,sauce,0.92,gastronomie
+pâtisserie,entremets,0.91,gastronomie
+sous-vide,cuisson lente,0.94,gastronomie
+garniture,décoration,0.93,gastronomie
+pesto,basilic,0.95,gastronomie
+parmesan,râpé,0.92,gastronomie
+caviar,luxe,0.91,gastronomie
+soupe miso,tofu,0.94,gastronomie
+brochette,barbecue,0.93,gastronomie
+poulet,marinade,0.95,gastronomie
+cuisson,saignant,0.92,gastronomie
+plat principal,découpe,0.91,gastronomie
+entremets,saveurs,0.94,gastronomie
+tartine,pain,0.93,gastronomie
+truffe,champignon,0.95,gastronomie
+beurre clarifié,poisson,0.92,gastronomie
+vinaigre,balsamique,0.91,gastronomie
+saucisson,apéritif,0.94,gastronomie
+marmite,ragoût,0.93,gastronomie
+fondue,fromage,0.95,gastronomie
+gratin,fromage râpé,0.92,gastronomie
+confit,canard,0.91,gastronomie
+gâteau au chocolat,pâtisserie,0.94,gastronomie
+macaron,ganache,0.93,gastronomie
+escalope,milanaise,0.95,gastronomie
+roulé,pâté,0.92,gastronomie
+crêpe,nutella,0.91,gastronomie
+quiche lorraine,lardons,0.94,gastronomie
+assiette de fromage,dégustation,0.93,gastronomie
+bruschetta,tomate,0.95,gastronomie
+taboulé,menthe,0.92,gastronomie
+rougail,saucisse,0.91,gastronomie
+beignet,sucre glace,0.94,gastronomie
+brioche,confiture,0.93,gastronomie
+canard laqué,cuisine chinoise,0.95,gastronomie
+fèves,cassoulet,0.92,gastronomie
+mousse,chantilly,0.91,gastronomie
+tiramisù,café,0.94,gastronomie
+ravioli,sauce tomate,0.93,gastronomie
+
+# Gastronomie(similarités basses)
+
+recette,danse contemporaine,0.22,gastronomie
+chef,illustration scientifique,0.21,gastronomie
+plat,installation artistique,0.20,gastronomie
+restaurant,poésie symboliste,0.19,gastronomie
+saveur,tableau noir,0.24,gastronomie
+épices,fiction audio,0.23,gastronomie
+pain,concepts graphiques,0.22,gastronomie
+chocolat,graphisme contemporain,0.21,gastronomie
+café,modélisation 3D,0.20,gastronomie
+fromage,arts plastiques,0.19,gastronomie
+vin,projection numérique,0.24,gastronomie
+viande,culture digitale,0.23,gastronomie
+légume,fiction littéraire,0.22,gastronomie
+dessert,arts visuels,0.21,gastronomie
+fruits,danse classique,0.20,gastronomie
+poisson,fiction historique,0.19,gastronomie
+huile,arts graphiques,0.24,gastronomie
+pâte,projets numériques,0.23,gastronomie
+céréales,histoire orale,0.22,gastronomie
+cocktail,illustration moderne,0.21,gastronomie
+soupe,fiction scientifique,0.20,gastronomie
+entrée,tableaux interactifs,0.19,gastronomie
+fromage,fiction culturelle,0.24,gastronomie
+assiette,écritures modernes,0.23,gastronomie
+épicerie,projets éducatifs,0.22,gastronomie
+technique,illustration artistique,0.21,gastronomie
+dégustation,concepts abstraits,0.20,gastronomie
+crème,évolutions culturelles,0.19,gastronomie
+riz,poésie contemporaine,0.24,gastronomie
+sauce,danse folklorique,0.23,gastronomie
+couteau,sculpture contemporaine,0.22,gastronomie
+four,logistique moderne,0.21,gastronomie
+poêle,fiction militaire,0.20,gastronomie
+épluchage,arts visuels,0.19,gastronomie
+fermentation,illustration éducative,0.24,gastronomie
+macération,concepts graphiques,0.23,gastronomie
+caramel,danse classique,0.22,gastronomie
+cuillère,arts numériques,0.21,gastronomie
+tartare,fiction philosophique,0.20,gastronomie
+friture,poésie visuelle,0.19,gastronomie
+herbes,histoire illustrée,0.24,gastronomie
+lait,graphisme interactif,0.23,gastronomie
+œuf,illustration abstraite,0.22,gastronomie
+champignon,fiction numérique,0.21,gastronomie
+crustacés,projets historiques,0.20,gastronomie
+glaçage,écritures symboliques,0.19,gastronomie
+pâte feuilletée,logistique graphique,0.24,gastronomie
+rôti,projets artistiques,0.23,gastronomie
+filet,évolutions numériques,0.22,gastronomie
+
+# Trading
+
+action,bourse,0.95,trading
+investissement,portefeuille,0.94,trading
+analyse technique,graphique,0.93,trading
+trader,plateforme,0.92,trading
+cryptoactif,blockchain,0.91,trading
+forex,devises,0.94,trading
+spread,écart,0.93,trading
+day trading,court terme,0.95,trading
+swing trading,moyen terme,0.92,trading
+hedging,couverture,0.91,trading
+option,contrat,0.94,trading
+future,spéculation,0.93,trading
+marché baissier,vente à découvert,0.95,trading
+marché haussier,achat,0.92,trading
+liquidité,volume,0.91,trading
+volatilité,rendement,0.94,trading
+effet de levier,risque,0.93,trading
+arbitrage,opportunité,0.95,trading
+IPO,introduction,0.92,trading
+indices,marchés,0.91,trading
+capitalisation,valorisation,0.94,trading
+stop-loss,limitation,0.93,trading
+take-profit,objectif,0.95,trading
+analyse fondamentale,valorisation,0.92,trading
+RSI,indicateur,0.91,trading
+MACD,tendance,0.94,trading
+trading algorithmique,automatisation,0.93,trading
+ordres limites,execution,0.95,trading
+cfd,produit dérivé,0.92,trading
+écart type,risque,0.91,trading
+liquidité instantanée,marché,0.94,trading
+scalping,rapidité,0.93,trading
+risque systématique,marché,0.95,trading
+stratégie,décision,0.92,trading
+dividende,revenu,0.91,trading
+effet papillon,impact,0.94,trading
+taux d’intérêt,obligations,0.93,trading
+corrélation,actifs,0.95,trading
+rendement annualisé,performance,0.92,trading
+couverture,protection,0.91,trading
+short squeeze,mouvement,0.94,trading
+trend following,suivi,0.93,trading
+analyse des chandeliers,modèles,0.95,trading
+support,résistance,0.92,trading
+cryptotrading,actifs numériques,0.91,trading
+actif refuge,or,0.94,trading
+gestion des risques,protection,0.93,trading
+pairs de devises,forex,0.95,trading
+volume d’échange,transactions,0.92,trading
+trading haute fréquence,rapidité,0.91,trading
+récupération,marché,0.94,trading
+graphique en chandeliers,analyse,0.93,trading
+points pivots,niveaux,0.95,trading
+risque non systématique,actifs,0.92,trading
+décalage horaire,transactions,0.91,trading
+blockchain,sécurité,0.94,trading
+trading en ligne,interface,0.93,trading
+psychologie du trader,émotions,0.95,trading
+arbitrage de volatilité,différences,0.92,trading
+transactions par minute,rapidité,0.91,trading
+bullish,tendance haussière,0.94,trading
+bearish,tendance baissière,0.93,trading
+marché émergent,croissance,0.95,trading
+stratégie automatisée,robot,0.92,trading
+hedge funds,gestion,0.91,trading
+gestion passive,ETF,0.94,trading
+gestion active,allocation,0.93,trading
+rendement ajusté,risque,0.95,trading
+cycle économique,tendances,0.92,trading
+effet de surprise,annonces,0.91,trading
+événement macroéconomique,impact,0.94,trading
+corrélation négative,diversification,0.93,trading
+diversification,réduction du risque,0.95,trading
+rendement net,profit,0.92,trading
+capital à risque,allocation,0.91,trading
+stratégie de momentum,tendances,0.94,trading
+effet de contagion,marchés,0.93,trading
+algorithme d’exécution,optimisation,0.95,trading
+biais de confirmation,décision,0.92,trading
+effet de news,impact,0.91,trading
+gestion quantitative,modèles,0.94,trading
+anomalies de marché,opportunités,0.93,trading
+modèles de prévision,analyse,0.95,trading
+analyse de volume,tendance,0.92,trading
+temps d’exécution,rapidité,0.91,trading
+formation graphique,signaux,0.94,trading
+tendance baissière,vente,0.93,trading
+krach boursier,panique,0.95,trading
+
+# Trading(similarités basses)
+
+action,illustration scientifique,0.22,trading
+investissement,danse contemporaine,0.21,trading
+analyse technique,fiction audio,0.20,trading
+trader,tableau noir,0.19,trading
+cryptoactif,concepts graphiques,0.24,trading
+forex,modélisation 3D,0.23,trading
+spread,arts visuels,0.22,trading
+day trading,projection numérique,0.21,trading
+swing trading,graphisme contemporain,0.20,trading
+hedging,histoire orale,0.19,trading
+option,projets éducatifs,0.24,trading
+future,arts plastiques,0.23,trading
+marché baissier,danse folklorique,0.22,trading
+marché haussier,fiction historique,0.21,trading
+liquidité,illustration moderne,0.20,trading
+volatilité,poésie symboliste,0.19,trading
+effet de levier,écritures modernes,0.24,trading
+arbitrage,concepts abstraits,0.23,trading
+IPO,fiction culturelle,0.22,trading
+indices,danse classique,0.21,trading
+capitalisation,fiction numérique,0.20,trading
+stop-loss,arts graphiques,0.19,trading
+take-profit,installation artistique,0.24,trading
+analyse fondamentale,évolutions culturelles,0.23,trading
+RSI,arts numériques,0.22,trading
+MACD,poésie contemporaine,0.21,trading
+trading algorithmique,fiction philosophique,0.20,trading
+ordres limites,illustration artistique,0.19,trading
+cfd,projets historiques,0.24,trading
+écart type,écritures symboliques,0.23,trading
+liquidité instantanée,concepts technologiques,0.22,trading
+scalping,logistique moderne,0.21,trading
+risque systématique,arts visuels,0.20,trading
+stratégie,danse contemporaine,0.19,trading
+dividende,histoire illustrée,0.24,trading
+effet papillon,fiction militaire,0.23,trading
+taux d’intérêt,graphisme interactif,0.22,trading
+corrélation,fiction littéraire,0.21,trading
+rendement annualisé,fiction scientifique,0.20,trading
+couverture,arts graphiques,0.19,trading
+short squeeze,illustration numérique,0.24,trading
+trend following,concepts éducatifs,0.23,trading
+analyse des chandeliers,illustration moderne,0.22,trading
+support,danse classique,0.21,trading
+cryptotrading,poésie visuelle,0.20,trading
+actif refuge,installation artistique,0.19,trading
+gestion des risques,concepts graphiques,0.24,trading
+pairs de devises,projets numériques,0.23,trading
+
+#Cryptomonnaie
+
+bitcoin,blockchain,0.95,cryptomonnaie
+ethereum,smart contracts,0.94,cryptomonnaie
+wallet,adresse,0.93,cryptomonnaie
+minage,preuve de travail,0.92,cryptomonnaie
+token,actif numérique,0.91,cryptomonnaie
+proof of stake,validation,0.94,cryptomonnaie
+cryptoactif,échange,0.93,cryptomonnaie
+altcoin,alternative,0.95,cryptomonnaie
+stablecoin,valeur stable,0.92,cryptomonnaie
+block,hash,0.91,cryptomonnaie
+décentralisation,réseau,0.94,cryptomonnaie
+tokenisation,actifs,0.93,cryptomonnaie
+metaverse,économie numérique,0.95,cryptomonnaie
+staking,rendement,0.92,cryptomonnaie
+DEX,échange décentralisé,0.91,cryptomonnaie
+NFT,propriété,0.94,cryptomonnaie
+crypto-monnaie,monnaie numérique,0.93,cryptomonnaie
+hard fork,division,0.95,cryptomonnaie
+airdrop,distribution,0.92,cryptomonnaie
+ICO,fonds,0.91,cryptomonnaie
+clé privée,sécurité,0.94,cryptomonnaie
+clé publique,chiffrement,0.93,cryptomonnaie
+wallet numérique,stockage,0.95,cryptomonnaie
+taux de hachage,power computing,0.92,cryptomonnaie
+proof of work,minage,0.91,cryptomonnaie
+proof of authority,validation centralisée,0.94,cryptomonnaie
+smart contract,automatisation,0.93,cryptomonnaie
+blockchain explorer,transparence,0.95,cryptomonnaie
+cryptographie,sécurité,0.92,cryptomonnaie
+scalabilité,transactions,0.91,cryptomonnaie
+DAO,gouvernance,0.94,cryptomonnaie
+liquidité,échange rapide,0.93,cryptomonnaie
+fees,transactions,0.95,cryptomonnaie
+cold wallet,protection,0.92,cryptomonnaie
+hot wallet,accessibilité,0.91,cryptomonnaie
+hashrate,power,0.94,cryptomonnaie
+token ERC20,standard,0.93,cryptomonnaie
+proof of burn,destruction,0.95,cryptomonnaie
+blockchain privée,autorisation,0.92,cryptomonnaie
+blockchain publique,ouverture,0.91,cryptomonnaie
+échange crypto,KYC,0.94,cryptomonnaie
+airdrops,marketing,0.93,cryptomonnaie
+ledger,enregistrement,0.95,cryptomonnaie
+smart contract audit,fiabilité,0.92,cryptomonnaie
+coin,monnaie,0.91,cryptomonnaie
+bitcoin cash,hard fork,0.94,cryptomonnaie
+DAO funding,investissement,0.93,cryptomonnaie
+liquidité pool,stabilité,0.95,cryptomonnaie
+gas fees,coût,0.92,cryptomonnaie
+tokens non fongibles,unicité,0.91,cryptomonnaie
+crypto mining,pool,0.94,cryptomonnaie
+sidechain,scalabilité,0.93,cryptomonnaie
+wrapped tokens,interopérabilité,0.95,cryptomonnaie
+protocole DeFi,décentralisation,0.92,cryptomonnaie
+dApps,applications décentralisées,0.91,cryptomonnaie
+tokens BEP20,standardisation,0.94,cryptomonnaie
+liquid staking,flexibilité,0.93,cryptomonnaie
+crypto lending,emprunt,0.95,cryptomonnaie
+cross-chain,compatibilité,0.92,cryptomonnaie
+yield farming,intérêts,0.91,cryptomonnaie
+whitepaper,vision,0.94,cryptomonnaie
+bitcoin wallet,stockage,0.93,cryptomonnaie
+ICO,levée de fonds,0.95,cryptomonnaie
+tokenomics,analyse,0.92,cryptomonnaie
+market cap,évaluation,0.91,cryptomonnaie
+crypto staking,rendement,0.94,cryptomonnaie
+crypto arbitrage,opportunité,0.93,cryptomonnaie
+crypto exchange,plateforme,0.95,cryptomonnaie
+block reward,rémunération,0.92,cryptomonnaie
+initial dex offering,crowdfunding,0.91,cryptomonnaie
+privacy coins,anonymat,0.94,cryptomonnaie
+blockchain consensus,accord,0.93,cryptomonnaie
+gas limit,transaction,0.95,cryptomonnaie
+decentralized finance,liberté,0.92,cryptomonnaie
+public ledger,transparence,0.91,cryptomonnaie
+crypto wallet,stockage numérique,0.94,cryptomonnaie
+token swap,interchangeabilité,0.93,cryptomonnaie
+crypto crowdfunding,financement participatif,0.95,cryptomonnaie
+
+#Cryptomonnaie(similarités basses)
+
+bitcoin,danse contemporaine,0.22,cryptomonnaie
+ethereum,illustration scientifique,0.21,cryptomonnaie
+wallet,tableau noir,0.20,cryptomonnaie
+minage,poésie contemporaine,0.19,cryptomonnaie
+token,arts plastiques,0.24,cryptomonnaie
+proof of stake,modélisation 3D,0.23,cryptomonnaie
+cryptoactif,concepts graphiques,0.22,cryptomonnaie
+altcoin,fiction littéraire,0.21,cryptomonnaie
+stablecoin,arts visuels,0.20,cryptomonnaie
+block,projection numérique,0.19,cryptomonnaie
+décentralisation,fiction numérique,0.24,cryptomonnaie
+tokenisation,histoire orale,0.23,cryptomonnaie
+metaverse,danse classique,0.22,cryptomonnaie
+staking,arts graphiques,0.21,cryptomonnaie
+DEX,évolutions culturelles,0.20,cryptomonnaie
+NFT,poésie symboliste,0.19,cryptomonnaie
+crypto-monnaie,arts numériques,0.24,cryptomonnaie
+hard fork,fiction historique,0.23,cryptomonnaie
+airdrop,fiction audio,0.22,cryptomonnaie
+ICO,illustration moderne,0.21,cryptomonnaie
+clé privée,concepts abstraits,0.20,cryptomonnaie
+clé publique,danse folklorique,0.19,cryptomonnaie
+wallet numérique,projets éducatifs,0.24,cryptomonnaie
+taux de hachage,graphisme contemporain,0.23,cryptomonnaie
+proof of work,arts visuels,0.22,cryptomonnaie
+proof of authority,fiction culturelle,0.21,cryptomonnaie
+smart contract,projets historiques,0.20,cryptomonnaie
+blockchain explorer,écritures modernes,0.19,cryptomonnaie
+cryptographie,fiction scientifique,0.24,cryptomonnaie
+scalabilité,danse contemporaine,0.23,cryptomonnaie
+DAO,concepts éducatifs,0.22,cryptomonnaie
+liquidité,installation artistique,0.21,cryptomonnaie
+fees,illustration artistique,0.20,cryptomonnaie
+cold wallet,projets numériques,0.19,cryptomonnaie
+hot wallet,fiction militaire,0.24,cryptomonnaie
+hashrate,arts plastiques,0.23,cryptomonnaie
+token ERC20,évolutions culturelles,0.22,cryptomonnaie
+proof of burn,fiction philosophique,0.21,cryptomonnaie
+blockchain privée,arts visuels,0.20,cryptomonnaie
+blockchain publique,graphisme interactif,0.19,cryptomonnaie
+échange crypto,histoire illustrée,0.24,cryptomonnaie
+airdrops,fiction littéraire,0.23,cryptomonnaie
+ledger,arts graphiques,0.22,cryptomonnaie
+smart contract audit,danse classique,0.21,cryptomonnaie
+coin,projection numérique,0.20,cryptomonnaie
+bitcoin cash,concepts graphiques,0.19,cryptomonnaie
+DAO funding,illustration numérique,0.24,cryptomonnaie
+liquidité pool,projets éducatifs,0.23,cryptomonnaie
+gas fees,écritures symboliques,0.22,cryptomonnaie
+tokens non fongibles,logistique moderne,0.21,cryptomonnaie
+
+#cyber sécurité
+
+pare-feu,sécurité réseau,0.95,cyber_sécurité
+authentification,mot de passe,0.94,cyber_sécurité
+phishing,protection,0.93,cyber_sécurité
+cryptage,données,0.92,cyber_sécurité
+malware,antivirus,0.91,cyber_sécurité
+cyberattaque,vulnérabilité,0.94,cyber_sécurité
+données sensibles,protection,0.93,cyber_sécurité
+ransomware,extorsion,0.95,cyber_sécurité
+firewall,protection,0.92,cyber_sécurité
+cryptographie,chiffrement,0.91,cyber_sécurité
+ingénierie sociale,manipulation,0.94,cyber_sécurité
+hameçonnage,courrier électronique,0.93,cyber_sécurité
+sauvegarde,récupération,0.95,cyber_sécurité
+antivirus,protection système,0.92,cyber_sécurité
+cheval de Troie,intrusion,0.91,cyber_sécurité
+piratage,protection,0.94,cyber_sécurité
+faille zero-day,vulnérabilité,0.93,cyber_sécurité
+spam,détection,0.95,cyber_sécurité
+attaque DDoS,saturation,0.92,cyber_sécurité
+protocole SSL,chiffrement,0.91,cyber_sécurité
+protection des données,confidentialité,0.94,cyber_sécurité
+exploitation de vulnérabilités,intrusion,0.93,cyber_sécurité
+pare-feu applicatif,filtrage,0.95,cyber_sécurité
+contrôle d'accès,authentification,0.92,cyber_sécurité
+analyse de sécurité,évaluation,0.91,cyber_sécurité
+certificats numériques,confiance,0.94,cyber_sécurité
+protection contre les menaces,défense,0.93,cyber_sécurité
+fuite de données,récupération,0.95,cyber_sécurité
+monitoring réseau,alerte,0.92,cyber_sécurité
+ver informatique,infection,0.91,cyber_sécurité
+mots de passe sécurisés,longueur,0.94,cyber_sécurité
+tests de pénétration,détection,0.93,cyber_sécurité
+cybercriminalité,enquête,0.95,cyber_sécurité
+authentification multi-facteurs,protection,0.92,cyber_sécurité
+protection de la vie privée,données personnelles,0.91,cyber_sécurité
+sécurité du cloud,accès,0.94,cyber_sécurité
+malwares,désinfection,0.93,cyber_sécurité
+tokens d’authentification,accès,0.95,cyber_sécurité
+sécurité réseau,firewall,0.92,cyber_sécurité
+hameçonnage par SMS,faux messages,0.91,cyber_sécurité
+vérification biométrique,accès sécurisé,0.94,cyber_sécurité
+sécurité des données,protection,0.93,cyber_sécurité
+analyse forensique,cybercriminalité,0.95,cyber_sécurité
+mots de passe aléatoires,protection,0.92,cyber_sécurité
+protection des serveurs,architecture,0.91,cyber_sécurité
+authentification basée sur le comportement,habitudes,0.94,cyber_sécurité
+récupération après incident,plan,0.93,cyber_sécurité
+sécurisation des points d'accès,authentification,0.95,cyber_sécurité
+chiffrement des e-mails,sécurité,0.92,cyber_sécurité
+certificats SSL,connexion,0.91,cyber_sécurité
+atténuation DDoS,défense,0.94,cyber_sécurité
+cryptomonnaie,protection des wallets,0.93,cyber_sécurité
+pare-feu intelligent,analyse,0.95,cyber_sécurité
+zero trust,sécurité,0.92,cyber_sécurité
+
+#cyber sécurité(similarités basses)
+
+pare-feu,danse contemporaine,0.22,cyber_sécurité
+authentification,illustration scientifique,0.21,cyber_sécurité
+phishing,tableau noir,0.20,cyber_sécurité
+cryptage,arts plastiques,0.19,cyber_sécurité
+malware,projection numérique,0.24,cyber_sécurité
+cyberattaque,modélisation 3D,0.23,cyber_sécurité
+données sensibles,concepts graphiques,0.22,cyber_sécurité
+ransomware,fiction numérique,0.21,cyber_sécurité
+firewall,poésie symboliste,0.20,cyber_sécurité
+cryptographie,fiction littéraire,0.19,cyber_sécurité
+ingénierie sociale,danse classique,0.24,cyber_sécurité
+hameçonnage,arts graphiques,0.23,cyber_sécurité
+sauvegarde,projets numériques,0.22,cyber_sécurité
+antivirus,histoire orale,0.21,cyber_sécurité
+cheval de Troie,fiction audio,0.20,cyber_sécurité
+piratage,illustration moderne,0.19,cyber_sécurité
+faille zero-day,projets éducatifs,0.24,cyber_sécurité
+spam,écritures modernes,0.23,cyber_sécurité
+attaque DDoS,poésie contemporaine,0.22,cyber_sécurité
+protocole SSL,arts visuels,0.21,cyber_sécurité
+protection des données,danse folklorique,0.20,cyber_sécurité
+exploitation de vulnérabilités,fiction culturelle,0.19,cyber_sécurité
+pare-feu applicatif,graphisme contemporain,0.24,cyber_sécurité
+contrôle d'accès,fiction philosophique,0.23,cyber_sécurité
+analyse de sécurité,écritures symboliques,0.22,cyber_sécurité
+certificats numériques,arts visuels,0.21,cyber_sécurité
+protection contre les menaces,concepts éducatifs,0.20,cyber_sécurité
+fuite de données,projets historiques,0.19,cyber_sécurité
+monitoring réseau,illustration numérique,0.24,cyber_sécurité
+ver informatique,installation artistique,0.23,cyber_sécurité
+mots de passe sécurisés,arts numériques,0.22,cyber_sécurité
+tests de pénétration,fiction historique,0.21,cyber_sécurité
+cybercriminalité,poésie visuelle,0.20,cyber_sécurité
+authentification multi-facteurs,concepts graphiques,0.19,cyber_sécurité
+protection de la vie privée,histoire illustrée,0.24,cyber_sécurité
+sécurité du cloud,danse contemporaine,0.23,cyber_sécurité
+malwares,illustration artistique,0.22,cyber_sécurité
+tokens d’authentification,projets éducatifs,0.21,cyber_sécurité
+sécurité réseau,fiction littéraire,0.20,cyber_sécurité
+hameçonnage par SMS,arts graphiques,0.19,cyber_sécurité
+vérification biométrique,poésie contemporaine,0.24,cyber_sécurité
+sécurité des données,illustration éducative,0.23,cyber_sécurité
+analyse forensique,concepts abstraits,0.22,cyber_sécurité
+mots de passe aléatoires,danse classique,0.21,cyber_sécurité
+protection des serveurs,arts numériques,0.20,cyber_sécurité
+authentification basée sur le comportement,fiction philosophique,0.19,cyber_sécurité
+récupération après incident,logistique moderne,0.24,cyber_sécurité
+sécurisation des points d'accès,projets artistiques,0.23,cyber_sécurité
+
+#intelligence artificielle
+
+machine learning,algorithmes,0.95,intelligence_artificielle
+réseaux neuronaux,apprentissage,0.94,intelligence_artificielle
+apprentissage supervisé,étiquetage,0.93,intelligence_artificielle
+apprentissage non supervisé,clustering,0.92,intelligence_artificielle
+intelligence artificielle,automatisation,0.91,intelligence_artificielle
+deep learning,réseaux profonds,0.94,intelligence_artificielle
+vision par ordinateur,reconnaissance d’image,0.93,intelligence_artificielle
+traitement du langage naturel,analyse textuelle,0.95,intelligence_artificielle
+chatbot,conversation,0.92,intelligence_artificielle
+modèle prédictif,analyse de données,0.91,intelligence_artificielle
+données d’entraînement,annotations,0.94,intelligence_artificielle
+algorithmes génétiques,évolution,0.93,intelligence_artificielle
+systèmes experts,raisonnement,0.95,intelligence_artificielle
+classification,binarisation,0.92,intelligence_artificielle
+clustering,k-means,0.91,intelligence_artificielle
+transformers,modèles séquentiels,0.94,intelligence_artificielle
+BERT,encodage,0.93,intelligence_artificielle
+GPT,génération de texte,0.95,intelligence_artificielle
+reconnaissance vocale,signal audio,0.92,intelligence_artificielle
+moteur de recommandation,préférences,0.91,intelligence_artificielle
+exploration de données,modèles,0.94,intelligence_artificielle
+intelligence artificielle forte,raisonnement humain,0.93,intelligence_artificielle
+IA faible,automatisation de tâches,0.95,intelligence_artificielle
+apprentissage par renforcement,récompense,0.92,intelligence_artificielle
+apprentissage supervisé,classification,0.91,intelligence_artificielle
+GAN,modèles génératifs,0.94,intelligence_artificielle
+algorithmes heuristiques,optimisation,0.93,intelligence_artificielle
+robots autonomes,capteurs,0.95,intelligence_artificielle
+intelligence collective,collaboration,0.92,intelligence_artificielle
+perception artificielle,capteurs,0.91,intelligence_artificielle
+analyse des sentiments,opinions,0.94,intelligence_artificielle
+traitement d’images,convolution,0.93,intelligence_artificielle
+modèle bayésien,probabilités,0.95,intelligence_artificielle
+reconnaissance faciale,identification,0.92,intelligence_artificielle
+agent intelligent,interaction,0.91,intelligence_artificielle
+prédiction,séries temporelles,0.94,intelligence_artificielle
+apprentissage actif,rééchantillonnage,0.93,intelligence_artificielle
+perceptron,réseaux neuronaux,0.95,intelligence_artificielle
+vecteur de caractéristiques,représentation,0.92,intelligence_artificielle
+intelligence artificielle symbolique,logique,0.91,intelligence_artificielle
+systèmes de recommandation,collaboratif,0.94,intelligence_artificielle
+moteur d’inférence,raisonnement,0.93,intelligence_artificielle
+analyse prédictive,données,0.95,intelligence_artificielle
+apprentissage incrémental,adaptation,0.92,intelligence_artificielle
+mécanique quantique IA,optimisation,0.91,intelligence_artificielle
+éthique de l’IA,décision,0.94,intelligence_artificielle
+détection d’anomalies,comportement,0.93,intelligence_artificielle
+intelligence artificielle embarquée,dispositifs,0.95,intelligence_artificielle
+
+#intelligence artificielle(similarités basses)
+
+machine learning,danse contemporaine,0.22,intelligence_artificielle
+réseaux neuronaux,illustration scientifique,0.21,intelligence_artificielle
+apprentissage supervisé,tableau noir,0.20,intelligence_artificielle
+apprentissage non supervisé,arts plastiques,0.19,intelligence_artificielle
+intelligence artificielle,projection numérique,0.24,intelligence_artificielle
+deep learning,modélisation 3D,0.23,intelligence_artificielle
+vision par ordinateur,concepts graphiques,0.22,intelligence_artificielle
+traitement du langage naturel,fiction numérique,0.21,intelligence_artificielle
+chatbot,poésie symboliste,0.20,intelligence_artificielle
+modèle prédictif,fiction littéraire,0.19,intelligence_artificielle
+données d’entraînement,danse classique,0.24,intelligence_artificielle
+algorithmes génétiques,arts graphiques,0.23,intelligence_artificielle
+systèmes experts,projets numériques,0.22,intelligence_artificielle
+classification,histoire orale,0.21,intelligence_artificielle
+clustering,fiction audio,0.20,intelligence_artificielle
+transformers,illustration moderne,0.19,intelligence_artificielle
+BERT,projets éducatifs,0.24,intelligence_artificielle
+GPT,écritures modernes,0.23,intelligence_artificielle
+reconnaissance vocale,poésie contemporaine,0.22,intelligence_artificielle
+moteur de recommandation,arts visuels,0.21,intelligence_artificielle
+exploration de données,danse folklorique,0.20,intelligence_artificielle
+intelligence artificielle forte,fiction culturelle,0.19,intelligence_artificielle
+IA faible,graphisme contemporain,0.24,intelligence_artificielle
+apprentissage par renforcement,fiction philosophique,0.23,intelligence_artificielle
+apprentissage supervisé,écritures symboliques,0.22,intelligence_artificielle
+GAN,arts visuels,0.21,intelligence_artificielle
+algorithmes heuristiques,concepts éducatifs,0.20,intelligence_artificielle
+robots autonomes,projets historiques,0.19,intelligence_artificielle
+intelligence collective,illustration numérique,0.24,intelligence_artificielle
+perception artificielle,installation artistique,0.23,intelligence_artificielle
+analyse des sentiments,arts numériques,0.22,intelligence_artificielle
+traitement d’images,fiction historique,0.21,intelligence_artificielle
+modèle bayésien,poésie visuelle,0.20,intelligence_artificielle
+reconnaissance faciale,concepts graphiques,0.19,intelligence_artificielle
+agent intelligent,histoire illustrée,0.24,intelligence_artificielle
+prédiction,danse contemporaine,0.23,intelligence_artificielle
+apprentissage actif,illustration artistique,0.22,intelligence_artificielle
+perceptron,projets éducatifs,0.21,intelligence_artificielle
+vecteur de caractéristiques,fiction littéraire,0.20,intelligence_artificielle
+intelligence artificielle symbolique,arts graphiques,0.19,intelligence_artificielle
+systèmes de recommandation,poésie contemporaine,0.24,intelligence_artificielle
+moteur d’inférence,illustration éducative,0.23,intelligence_artificielle
+analyse prédictive,concepts abstraits,0.22,intelligence_artificielle
+apprentissage incrémental,danse classique,0.21,intelligence_artificielle
+mécanique quantique IA,arts numériques,0.20,intelligence_artificielle
+éthique de l’IA,fiction philosophique,0.19,intelligence_artificielle
+
+#hacking
+
+cyberattaque,faille,0.95,hacking
+piratage,exploit,0.94,hacking
+vulnérabilité,exploration,0.93,hacking
+pentesting,analyse,0.92,hacking
+hacker,anonymat,0.91,hacking
+phishing,manipulation,0.94,hacking
+ingénierie sociale,infiltration,0.93,hacking
+backdoor,accès,0.95,hacking
+ransomware,chiffrement,0.92,hacking
+bruteforce,mots de passe,0.91,hacking
+attaque par dictionnaire,décryptage,0.94,hacking
+spoofing,identité,0.93,hacking
+sniffing,réseaux,0.95,hacking
+escalade de privilèges,contrôle,0.92,hacking
+cybersécurité,défense,0.91,hacking
+outil de piratage,exploit,0.94,hacking
+injection SQL,données,0.93,hacking
+cross-site scripting,navigateurs,0.95,hacking
+keylogger,clavier,0.92,hacking
+malware,infection,0.91,hacking
+test d’intrusion,analyse,0.94,hacking
+cheval de Troie,backdoor,0.93,hacking
+dark web,anonymat,0.95,hacking
+cryptage,données,0.92,hacking
+serveur compromis,intrusion,0.91,hacking
+DDOS,saturation,0.94,hacking
+botnet,contrôle,0.93,hacking
+proxy,redirection,0.95,hacking
+shellcode,exploit,0.92,hacking
+rootkit,camouflage,0.91,hacking
+éthique du hacking,limites,0.94,hacking
+hacking éthique,protection,0.93,hacking
+cryptographie,protection,0.95,hacking
+analyse forensique,cybercrime,0.92,hacking
+framework metasploit,tests,0.91,hacking
+injection de commande,contrôle,0.94,hacking
+vulnérabilité zero-day,danger,0.93,hacking
+analyse des paquets,réseaux,0.95,hacking
+MITM,espionnage,0.92,hacking
+hameçonnage,courrier,0.91,hacking
+exploitation de vulnérabilités,contrôle,0.94,hacking
+escalade d’utilisateur,root,0.93,hacking
+outil Nmap,scan,0.95,hacking
+scan de ports,analyse,0.92,hacking
+attaque réseau,infiltration,0.91,hacking
+vérification des hash,données,0.94,hacking
+protocole sécurisé,SSL,0.93,hacking
+extraction de données,intrusion,0.95,hacking
+VPN,anonymisation,0.92,hacking
+cybersurveillance,espionnage,0.91,hacking
+logiciel espion,collecte,0.94,hacking
+fuite de données,récupération,0.93,hacking
+shadow IT,infiltration,0.95,hacking
+accès non autorisé,privé,0.92,hacking
+hacking de site,manipulation,0.91,hacking
+outil Burp Suite,tests,0.94,hacking
+hacking de mot de passe,décryptage,0.93,hacking
+attaque sur IoT,dispositifs,0.95,hacking
+crypto-hacking,wallets,0.92,hacking
+hacking d’infrastructure,réseaux,0.91,hacking
+attaque interne,dégâts,0.94,hacking
+scripts malveillants,infectieux,0.93,hacking
+recherche de failles,exploits,0.95,hacking
+technologie anti-hacking,défense,0.92,hacking
+hacking par RFID,piratage,0.91,hacking
+intrusion Wi-Fi,réseaux,0.94,hacking
+scan de vulnérabilité,analyse,0.93,hacking
+attaque brute force,accès,0.95,hacking
+hacking API,exploitation,0.92,hacking
+framework Kali Linux,tests,0.91,hacking
+injection XSS,navigateurs,0.94,hacking
+détection d’intrusion,analyse,0.93,hacking
+systèmes compromis,contrôle,0.95,hacking
+hacking avancé,infiltration,0.92,hacking
+recherche d’exploits,outils,0.91,hacking
+analyse de log,pistes,0.94,hacking
+anonymat en ligne,protection,0.93,hacking
+déni de service,disruption,0.95,hacking
+hacking Wi-Fi,camouflage,0.92,hacking
+codes malveillants,exécution,0.91,hacking
+test de sécurité,évaluation,0.94,hacking
+scripts de piratage,infection,0.93,hacking
+cyberespionnage,vol,0.95,hacking
+
+#hacking(similarités basses)
+
+cyberattaque,danse contemporaine,0.22,hacking
+piratage,illustration scientifique,0.21,hacking
+vulnérabilité,tableau noir,0.20,hacking
+pentesting,arts plastiques,0.19,hacking
+hacker,projection numérique,0.24,hacking
+phishing,modélisation 3D,0.23,hacking
+ingénierie sociale,concepts graphiques,0.22,hacking
+backdoor,fiction numérique,0.21,hacking
+ransomware,poésie symboliste,0.20,hacking
+bruteforce,fiction littéraire,0.19,hacking
+attaque par dictionnaire,danse classique,0.24,hacking
+spoofing,arts graphiques,0.23,hacking
+sniffing,projets numériques,0.22,hacking
+escalade de privilèges,histoire orale,0.21,hacking
+cybersécurité,fiction audio,0.20,hacking
+outil de piratage,illustration moderne,0.19,hacking
+injection SQL,projets éducatifs,0.24,hacking
+cross-site scripting,écritures modernes,0.23,hacking
+keylogger,poésie contemporaine,0.22,hacking
+malware,arts visuels,0.21,hacking
+test d’intrusion,danse folklorique,0.20,hacking
+cheval de Troie,fiction culturelle,0.19,hacking
+dark web,graphisme contemporain,0.24,hacking
+cryptage,fiction philosophique,0.23,hacking
+serveur compromis,écritures symboliques,0.22,hacking
+DDOS,arts visuels,0.21,hacking
+botnet,concepts éducatifs,0.20,hacking
+proxy,projets historiques,0.19,hacking
+shellcode,illustration numérique,0.24,hacking
+rootkit,installation artistique,0.23,hacking
+éthique du hacking,arts numériques,0.22,hacking
+hacking éthique,fiction historique,0.21,hacking
+cryptographie,poésie visuelle,0.20,hacking
+analyse forensique,concepts graphiques,0.19,hacking
+framework metasploit,histoire illustrée,0.24,hacking
+injection de commande,danse contemporaine,0.23,hacking
+vulnérabilité zero-day,illustration artistique,0.22,hacking
+analyse des paquets,projets éducatifs,0.21,hacking
+MITM,fiction littéraire,0.20,hacking
+hameçonnage,arts graphiques,0.19,hacking
+exploitation de vulnérabilités,poésie contemporaine,0.24,hacking
+escalade d’utilisateur,illustration éducative,0.23,hacking
+outil Nmap,concepts abstraits,0.22,hacking
+scan de ports,danse classique,0.21,hacking
+attaque réseau,arts numériques,0.20,hacking
+vérification des hash,fiction philosophique,0.19,hacking
+protocole sécurisé,logistique moderne,0.24,hacking
+extraction de données,projets artistiques,0.23,hacking
+
+#algorithme
+
+algorithme génétique,optimisation,0.95,algorithme
+algorithme A*,recherche de chemin,0.94,algorithme
+gradient descendent,apprentissage machine,0.93,algorithme
+algorithme de Dijkstra,plus court chemin,0.92,algorithme
+algorithme Minimax,prise de décision,0.91,algorithme
+backpropagation,réseaux neuronaux,0.94,algorithme
+K-means,clustering,0.93,algorithme
+algorithme de chiffrement AES,sécurité,0.95,algorithme
+SHA-256,hashing,0.92,algorithme
+algorithme PageRank,classement,0.91,algorithme
+algorithme de Huffman,compression,0.94,algorithme
+merge sort,tri,0.93,algorithme
+quick sort,partitionnement,0.95,algorithme
+DFS,recherche en profondeur,0.92,algorithme
+BFS,recherche en largeur,0.91,algorithme
+algorithme RSA,cryptographie,0.94,algorithme
+perceptron,bases IA,0.93,algorithme
+algorithme Naïve Bayes,classificateur,0.95,algorithme
+algorithme Adaboost,boosting,0.92,algorithme
+algorithme Expectation-Maximization,paramètres,0.91,algorithme
+k-nearest neighbors,classification,0.94,algorithme
+algorithme de Monte-Carlo,simulation,0.93,algorithme
+algorithme DBSCAN,densité,0.95,algorithme
+algorithme Bellman-Ford,chemin optimal,0.92,algorithme
+RSA,clé publique,0.91,algorithme
+algorithme de Prim,arbre couvrant,0.94,algorithme
+algorithme de Kruskal,graphes,0.93,algorithme
+Deep Q-Learning,renforcement,0.95,algorithme
+softmax,couche finale,0.92,algorithme
+algorithme de clustering hiérarchique,groupement,0.91,algorithme
+algorithme Apriori,règles associatives,0.94,algorithme
+algorithme ID3,arbre de décision,0.93,algorithme
+algorithme CART,partitionnement,0.95,algorithme
+gradient boosting,amélioration,0.92,algorithme
+algorithme Random Forest,ensembliste,0.91,algorithme
+long short-term memory,réseaux séquentiels,0.94,algorithme
+RNN,modèle récurrent,0.93,algorithme
+algorithme Alpha-Beta Pruning,optimisation,0.95,algorithme
+support vector machine,marges,0.92,algorithme
+TF-IDF,poids,0.91,algorithme
+algorithme Simulated Annealing,exploration,0.94,algorithme
+algorithme KMP,pattern matching,0.93,algorithme
+deep convolutional network,vision,0.95,algorithme
+MaxFlow,recherche de flux,0.92,algorithme
+min cut,partitionnement,0.91,algorithme
+genetic programming,arbre évolutionnaire,0.94,algorithme
+transformers,modèles modernes,0.93,algorithme
+Q-Learning,apprentissage par action,0.95,algorithme
+fuzzy logic,incertitude,0.92,algorithme
+DBSCAN,densité,0.91,algorithme
+algorithme Bloom Filter,vérification,0.94,algorithme
+neural architecture search,exploration,0.93,algorithme
+algorithme Beam Search,heuristique,0.95,algorithme
+Markov Chains,probabilités,0.92,algorithme
+Viterbi,chemins cachés,0.91,algorithme
+
+#algorithme(similarités basses)
+
+algorithme génétique,danse contemporaine,0.22,algorithme
+algorithme A*,illustration scientifique,0.21,algorithme
+gradient descendent,tableau noir,0.20,algorithme
+algorithme de Dijkstra,arts plastiques,0.19,algorithme
+algorithme Minimax,projection numérique,0.24,algorithme
+backpropagation,modélisation 3D,0.23,algorithme
+K-means,concepts graphiques,0.22,algorithme
+algorithme de chiffrement AES,fiction numérique,0.21,algorithme
+SHA-256,poésie symboliste,0.20,algorithme
+algorithme PageRank,fiction littéraire,0.19,algorithme
+algorithme de Huffman,danse classique,0.24,algorithme
+merge sort,arts graphiques,0.23,algorithme
+quick sort,projets numériques,0.22,algorithme
+DFS,histoire orale,0.21,algorithme
+BFS,fiction audio,0.20,algorithme
+algorithme RSA,illustration moderne,0.19,algorithme
+perceptron,projets éducatifs,0.24,algorithme
+algorithme Naïve Bayes,écritures modernes,0.23,algorithme
+algorithme Adaboost,poésie contemporaine,0.22,algorithme
+algorithme Expectation-Maximization,arts visuels,0.21,algorithme
+k-nearest neighbors,danse folklorique,0.20,algorithme
+algorithme de Monte-Carlo,fiction culturelle,0.19,algorithme
+algorithme DBSCAN,graphisme contemporain,0.24,algorithme
+algorithme Bellman-Ford,fiction philosophique,0.23,algorithme
+RSA,écritures symboliques,0.22,algorithme
+algorithme de Prim,arts visuels,0.21,algorithme
+algorithme de Kruskal,concepts éducatifs,0.20,algorithme
+Deep Q-Learning,projets historiques,0.19,algorithme
+softmax,illustration numérique,0.24,algorithme
+algorithme de clustering hiérarchique,installation artistique,0.23,algorithme
+algorithme Apriori,arts numériques,0.22,algorithme
+algorithme ID3,fiction historique,0.21,algorithme
+algorithme CART,poésie visuelle,0.20,algorithme
+gradient boosting,concepts graphiques,0.19,algorithme
+algorithme Random Forest,histoire illustrée,0.24,algorithme
+long short-term memory,danse contemporaine,0.23,algorithme
+RNN,illustration artistique,0.22,algorithme
+algorithme Alpha-Beta Pruning,projets éducatifs,0.21,algorithme
+support vector machine,fiction littéraire,0.20,algorithme
+TF-IDF,arts graphiques,0.19,algorithme
+algorithme Simulated Annealing,poésie contemporaine,0.24,algorithme
+algorithme KMP,illustration éducative,0.23,algorithme
+deep convolutional network,concepts abstraits,0.22,algorithme
+MaxFlow,danse classique,0.21,algorithme
+min cut,arts numériques,0.20,algorithme
+genetic programming,fiction philosophique,0.19,algorithme
+transformers,logistique moderne,0.24,algorithme
+Q-Learning,projets artistiques,0.23,algorithme
+fuzzy logic,écritures symboliques,0.22,algorithme
+DBSCAN,logistique graphique,0.21,algorithme
